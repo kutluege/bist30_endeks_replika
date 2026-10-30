@@ -1,0 +1,32 @@
+# BIST 30 replication system settings (owner: orchestrator)
+
+timezone_display: Europe/Istanbul
+
+data:
+  db_path: data/db/market.sqlite
+  constituents: data/metadata/constituents.csv
+  corporate_actions: data/metadata/corporate_actions.csv
+  divisor_state: data/state/divisor.json
+  results_dir: data/results
+  figures_dir: reports/figures
+
+sources:
+  equities: yahoo          # 15-min delayed, 1m bars (last ~7 days)
+  official_intraday: yahoo # XU030.IS intraday series (free, delayed)
+  official_eod: borsaistanbul
+  futures: null            # set to an adapter name once a free VIOP source is verified
+
+engine:
+  grid: 1min
+  fallback_intervals: [1m, 2m, 5m, 15m, 1d]
+  staleness_s: 300
+  official_symbol: XU030
+
+calibration:
+  # "prev_close": calibrate once on the official close of the first day in the
+  # requested range, then evaluate every later minute out-of-sample.
+  policy: prev_close
+
+viop:
+  rate_fallback_annual: null    # filled from a verified free source (TLREF / TCMB); never guessed
+  compounding: simple

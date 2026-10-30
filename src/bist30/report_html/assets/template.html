@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="tr" data-status="__STATUS__">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>XU030 Replikasyon Testi</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="__DESCRIPTION__">
+<style>/*__CSS__*/</style>
+</head>
+<body>
+<a class="skip" href="#animasyon">Animasyona geç</a>
+<header class="masthead">
+  <div class="wrap masthead__in">
+    <div class="brand"><span class="brand__code">XU030</span><span class="brand__sep" aria-hidden="true">/</span><span class="brand__name">Bağımsız hesaplama</span></div>
+    <nav class="nav" aria-label="Bölümler">
+      <a href="#ozet">Özet</a><a href="#animasyon">Dakika dakika</a><a href="#yontem">Nasıl hesaplıyoruz?</a><a href="#bilesenler">Bileşenler</a><a href="#veri-kalitesi">Veri kalitesi</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section id="ozet" class="band band--hero">
+    <div class="wrap">
+      <div id="status-banner" class="status" hidden></div>
+      <p class="eyebrow" id="hero-eyebrow"></p>
+      <h1 id="hero-headline" class="display">Hesaplanan ve gerçekleşen BIST 30</h1>
+      <p class="lede" id="hero-lede"></p>
+
+      <div class="kpis" id="kpis"></div>
+
+      <div class="verdict-grid">
+        <article class="verdict" id="verdict" aria-labelledby="verdict-q">
+          <header class="verdict__head">
+            <h2 id="verdict-q" class="verdict__q">Sistematik sapma var mı?</h2>
+            <span class="verdict__a" id="verdict-answer"></span>
+          </header>
+          <ul class="checks" id="checks"></ul>
+          <p class="fine" id="verdict-method"></p>
+        </article>
+        <div class="side">
+        <figure class="panel daily" aria-labelledby="daily-title">
+            <figcaption>
+              <h3 id="daily-title" class="panel__title">Gün gün ortalama fark</h3>
+              <p class="panel__sub" id="daily-sub">Hesaplanan − gerçekleşen, % · çubuğa tıklayınca o gün oynatılır</p>
+            </figcaption>
+            <div class="chart" id="daily-chart"></div>
+          </figure>
+          <dl class="facts" id="facts"></dl>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section id="animasyon" class="band band--console" aria-labelledby="anim-title">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="anim-title" class="section-title">Dakika dakika</h2>
+        <p class="section-sub">Her dakika sonunda hesapladığımız değer ile Borsa İstanbul'un yayımladığı değer. Bölen ilk günden sonra hiç değişmedi (yalnız kural 5.1 düzeltmesi).</p>
+      </div>
+
+      <div class="controls" role="group" aria-label="Oynatma kontrolleri">
+        <div class="days-scroll"><div class="days" id="day-chips" role="listbox" aria-label="İşlem günü"></div></div>
+        <div class="transport">
+          <button type="button" id="btn-play" class="btn btn--primary" aria-pressed="false"><span class="btn__icon" aria-hidden="true">▶</span><span class="btn__label">Oynat</span></button>
+          <button type="button" id="btn-restart" class="btn" title="Günün başına dön">Başa sar</button>
+          <label class="speed" for="speed">Hız
+            <select id="speed">
+              <option value="5">5 dk/sn</option>
+              <option value="15" selected>15 dk/sn</option>
+              <option value="30">30 dk/sn</option>
+              <option value="60">60 dk/sn</option>
+            </select>
+          </label>
+          <div class="clock" aria-live="off"><span class="clock__date" id="clock-date"></span><span class="clock__time" id="clock-time">--:--</span></div>
+        </div>
+        <label class="scrub" for="scrubber"><span class="sr">Zaman çubuğu</span>
+          <input type="range" id="scrubber" min="0" max="0" value="0" step="1">
+        </label>
+      </div>
+
+      <div class="console">
+        <div class="charts">
+          <div class="legend" id="legend"></div>
+          <div class="chart chart--main" id="main-chart" aria-label="Hesaplanan ve gerçekleşen XU030, dakika bazında"></div>
+          <div class="err-head">
+            <h3 class="panel__title">Fark</h3>
+            <div class="seg" role="radiogroup" aria-label="Fark birimi">
+              <button type="button" class="seg__b" role="radio" aria-checked="true" data-unit="pct" id="unit-pct">%</button>
+              <button type="button" class="seg__b" role="radio" aria-checked="false" data-unit="pts" id="unit-pts">puan</button>
+            </div>
+            <p class="err-key" id="err-key"></p>
+          </div>
+          <div class="chart chart--err" id="err-chart" aria-label="Fark grafiği"></div>
+          <div class="tooltip" id="tooltip" role="status" hidden></div>
+        </div>
+        <div class="tape">
+          <div class="tape__head">
+            <h3 class="panel__title">Akış</h3>
+            <span class="tape__count" id="tape-count"></span>
+          </div>
+          <div class="tape__scroll" tabindex="0" aria-label="Dakika akışı tablosu">
+            <table class="tape__table">
+              <thead><tr><th scope="col">Saat</th><th scope="col" class="num">Hesaplanan</th><th scope="col" class="num">Gerçekleşen</th><th scope="col" class="num">Fark (puan)</th><th scope="col" class="num">Fark (%)</th><th scope="col">Durum</th></tr></thead>
+              <tbody id="tape-body"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <p class="fine" id="day-note"></p>
+    </div>
+  </section>
+
+  <section id="yontem" class="band" aria-labelledby="method-title">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="method-title" class="section-title">Nasıl hesaplıyoruz?</h2>
+        <p class="section-sub" id="method-sub"></p>
+      </div>
+      <ol class="steps" id="steps"></ol>
+      <h3 class="subhead">Farklı yaptıklarımız ve nedenleri</h3>
+      <div class="diffs" id="diffs"></div>
+    </div>
+  </section>
+
+  <section id="bilesenler" class="band band--alt" aria-labelledby="cons-title">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="cons-title" class="section-title">Bileşenler</h2>
+        <p class="section-sub" id="cons-sub"></p>
+      </div>
+      <div class="divisor" id="divisor-box"></div>
+      <div class="table-scroll">
+        <table class="ledger" id="cons-table">
+          <thead><tr><th scope="col">#</th><th scope="col">Kod</th><th scope="col">Şirket</th><th scope="col" class="num">Pay sayısı N</th><th scope="col" class="num">FDPO H</th><th scope="col" class="num">K</th><th scope="col" class="num">Fiyat (kalibrasyon)</th><th scope="col" class="num">Ağırlık</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section id="veri-kalitesi" class="band" aria-labelledby="dq-title">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="dq-title" class="section-title">Veri kalitesi</h2>
+        <p class="section-sub" id="dq-sub"></p>
+      </div>
+      <div class="dq-grid">
+        <div class="panel">
+          <h3 class="panel__title">Geçersiz dakikalar, nedene göre</h3>
+          <div id="dq-reasons" class="bars"></div>
+        </div>
+        <div class="panel">
+          <h3 class="panel__title">En çok geçersiz dakikaya yol açan hisseler</h3>
+          <div id="dq-symbols" class="bars"></div>
+        </div>
+        <div class="panel">
+          <h3 class="panel__title">Tazelik</h3>
+          <dl class="mini" id="dq-stale"></dl>
+        </div>
+      </div>
+      <h3 class="subhead">Kapanış kontrolü: müzayede fiyatı dahil</h3>
+      <p class="section-sub" id="close-sub"></p>
+      <div class="table-scroll">
+        <table class="ledger" id="close-table">
+          <thead><tr><th scope="col">Gün</th><th scope="col" class="num">Resmî kapanış</th><th scope="col" class="num">Hesaplanan kapanış</th><th scope="col" class="num">Fark (puan)</th><th scope="col" class="num">Fark (%)</th><th scope="col" class="num">18:00 dakikası fark (%)</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <h3 class="subhead">Sınırlamalar</h3>
+      <ul class="limits" id="limits"></ul>
+    </div>
+  </section>
+</main>
+<footer class="footer"><div class="wrap" id="footer"></div></footer>
+
+<script type="application/json" id="payload">__PAYLOAD__</script>
+<script>/*__JS__*/</script>
+</body>
+</html>

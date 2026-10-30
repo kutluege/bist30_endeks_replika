@@ -1,0 +1,1174 @@
+
+===== PAGE 1 =====
+
+===== PAGE 2 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+İÇİNDEKİLER
+1. GİRİŞ ................................................................................................................................................... 4
+1.1. Amaç ....................................................................................................................................................... 4
+1.2. Yönetim................................................................................................................................................... 4
+1.3. Finansal Ölçütler Komitesi ...................................................................................................................... 4
+1.4. Kural Seti Değişiklikleri ............................................................................................................................ 4
+2. KISALTMALAR, TANIMLAR VE GENEL KURALLAR .................................................................................... 5
+2.1. Kısaltmalar .............................................................................................................................................. 5
+2.2. Pay Sayısı ................................................................................................................................................. 5
+2.3. Günlük Ortalama İşlem Hacmi ................................................................................................................ 5
+2.4. Piyasa Değeri........................................................................................................................................... 5
+2.5. Fiili Dolaşımdaki Pay Oranı (FDPO) .......................................................................................................... 5
+2.6. Ağırlık Katsayısı ....................................................................................................................................... 5
+2.7. FDP Ağırlık Katsayılı PD ............................................................................................................................ 5
+2.8. Düzeltilmiş Fiyatlar .................................................................................................................................. 5
+2.9. Ortalama PD ............................................................................................................................................ 5
+2.10. Ortalama FDP PD ................................................................................................................................ 6
+2.11. Kurumsal Yönetim Derecelendirme Notu ........................................................................................... 6
+2.12. Döviz Kuru ........................................................................................................................................... 6
+2.13. Endekslerin Versiyonları ...................................................................................................................... 6
+2.14. Kapsam Dışı Paylar .............................................................................................................................. 6
+2.15. Hesaplamaya Başlama / Son Verme.................................................................................................... 6
+2.16. Değerleme Dönemi ve Değerleme Günü ............................................................................................ 6
+2.17. Endeks Dönemi ve Dönemsel Değişikliklerin İlanı ............................................................................... 7
+2.18. Hesaplanma ve Yayım Sıklığı ............................................................................................................... 8
+2.19. Veri Hassasiyeti ................................................................................................................................... 8
+2.20. Temettü Verimi ................................................................................................................................... 8
+2.21. Sınırlama Parametreleri ...................................................................................................................... 9
+2.22. Sınırlama Yöntemi ............................................................................................................................... 9
+2.23. Sürdürülebilirlik Değerlemesini Yapan Kuruluş ................................................................................. 10
+2.24. Sürdürülebilirlik Notu ........................................................................................................................ 10
+2.25. Standart ............................................................................................................................................ 10
+2.26. Rehber .............................................................................................................................................. 10
+2.27. KAFİF Formu ...................................................................................................................................... 10
+2.28. KAFİF Komitesi .................................................................................................................................. 10
+2.29. Geri Alım Verileri ............................................................................................................................... 10
+3. HESAPLANAN ENDEKSLER ve BAŞLANGIÇ BİLGİLERİ ............................................................................. 10
+3.1. BIST 100 Endeksi ................................................................................................................................... 10
+3.2. BIST 50 Endeksi ..................................................................................................................................... 10
+3.3. BIST 30 Endeksi ..................................................................................................................................... 11
+3.4. BIST 50-30 Endeksi ................................................................................................................................ 11
+3.5. BIST 100-30 Endeksi .............................................................................................................................. 11
+3.6. BIST 500 Endeksi ................................................................................................................................... 11
+3.7. BIST Likit Banka Endeksi ........................................................................................................................ 11
+Ağustos 2025 1 Endeks Direktörlüğü
+===== PAGE 3 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+3.8. BIST Banka Dışı Likit 10 Endeksi ............................................................................................................ 11
+3.9. BIST Kurumsal Yönetim Endeksi ............................................................................................................ 11
+3.10. BIST Sürdürülebilirlik Endeksi ............................................................................................................ 11
+3.11. BIST Sürdürülebilirlik 25 Endeksi ....................................................................................................... 11
+3.12. BIST Katılım Tüm Endeksi .................................................................................................................. 11
+3.13. BIST Katılım 100 Endeksi ................................................................................................................... 11
+3.14. BIST Katılım 50 Endeksi ..................................................................................................................... 11
+3.15. BIST Katılım 30 Endeksi ..................................................................................................................... 11
+3.16. BIST Katılım Sürdürülebilirlik Endeksi ................................................................................................ 11
+3.17. BIST Tüm Endeksi .............................................................................................................................. 12
+3.18. BIST Tüm-100 Endeksi ....................................................................................................................... 12
+3.19. BIST Sektör ve BIST Alt Sektör Endeksleri .......................................................................................... 12
+3.20. BIST Yıldız Endeksi ............................................................................................................................. 12
+3.21. BIST Ana Endeksi ............................................................................................................................... 12
+3.22. BIST Menkul Kıymet Yatırım Ortaklıkları Endeksi .............................................................................. 12
+3.23. BIST Şehir Endeksleri ......................................................................................................................... 12
+3.24. BIST Temettü Endeksi ....................................................................................................................... 12
+3.25. BIST Temettü 25 Endeksi .................................................................................................................. 12
+3.26. BIST Katılım Temettü Endeksi ........................................................................................................... 12
+3.27. BIST Halka Arz Endeksi ...................................................................................................................... 12
+3.28. BIST KOBİ Sanayi Endeksi .................................................................................................................. 12
+3.29. BIST Geri Alım Endeksi ...................................................................................................................... 12
+3.30. Endekslerin Başlangıç Bilgileri ........................................................................................................... 12
+4. HESAPLAMA FORMÜLÜ ...................................................................................................................... 13
+5. ENDEKSLERDE DÜZELTME ................................................................................................................... 13
+6. ENDEKSLERDE YER ALACAK PAYLARIN SEÇİMİ ..................................................................................... 15
+6.1. BIST 30, BIST 50 ve BIST 100 Endeksleri ................................................................................................ 15
+6.2. BIST 500 Endeksi ................................................................................................................................... 15
+6.3. BIST Likit Banka Endeksi ........................................................................................................................ 16
+6.4. BIST Banka Dışı Likit 10 Endeksi ............................................................................................................ 16
+6.5. BIST Kurumsal Yönetim Endeksi ............................................................................................................ 16
+6.6. BIST Sürdürülebilirlik Endeksi ................................................................................................................ 17
+6.7. BIST Sürdürülebilirlik 25 Endeksi ........................................................................................................... 17
+6.8. BIST Katılım Tüm Endeksi ...................................................................................................................... 17
+6.9. BIST Katılım 30, Katılım 50 ve BIST Katılım 100 Endeksleri .................................................................... 18
+6.10. BIST Katılım Sürdürülebilirlik Endeksi ................................................................................................ 18
+6.11. BIST Şehir Endeksleri ......................................................................................................................... 18
+6.12. BIST Temettü Endeksi ....................................................................................................................... 19
+6.13. BIST Temettü 25 Endeksi .................................................................................................................. 19
+6.14. BIST Katılım Temettü Endeksi ........................................................................................................... 20
+6.15. BIST Halka Arz Endeksi ...................................................................................................................... 20
+6.16. BIST KOBİ Sanayi Endeksi .................................................................................................................. 20
+6.17. BIST Geri Alım Endeksi ...................................................................................................................... 20
+7. ENDEKSLERDE YER ALACAK PAYLAR İÇİN SIRALAMA VE SEÇİM YÖNTEMİ ............................................. 20
+8. ENDEKSLERİN KAPSAMINDAKİ PAYLARDA DÖNEMSEL OLMAYAN DEĞİŞİKLİKLER ................................. 21
+Ağustos 2025 2 Endeks Direktörlüğü
+===== PAGE 4 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+9. HESAPLAMALARDA KULLANILAN VERİLER VE VERİ HİYERARŞİSİ ........................................................... 25
+9.1. Fiyatlar .................................................................................................................................................. 25
+9.2. FDPO’lar ................................................................................................................................................ 25
+9.3. Pay Sayıları ............................................................................................................................................ 25
+9.4. Endekslerin Kapsamında Yer Alan Paylara İlişkin Listeler ...................................................................... 25
+10. ENDEKSLERİN TAKİP VE YÖNETİMİ .................................................................................................. 25
+11. ENDEKS DEĞERLERİNDE GERİYE DÖNÜK DÜZELTME ........................................................................ 26
+12. GÜNCELLEME SIKLIĞI ...................................................................................................................... 26
+13. YÜRÜRLÜK ...................................................................................................................................... 26
+Ağustos 2025 3 Endeks Direktörlüğü
+===== PAGE 5 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+1. GİRİŞ
+1.1. Amaç
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri, Borsa İstanbul’da işlem gören payların gruplar halinde fiyat ve getiri
+performanslarının ölçülmesi amacıyla oluşturulmuştur.
+1.2. Yönetim
+Borsa İstanbul, bu Kural Seti kapsamında hesaplanan tüm endekslerin fikri mülkiyet haklarının sahibi olup söz
+konusu endekslerin oluşturulmasına, hesaplanmasına ve yayımlanmasına ilişkin tüm süreçlerden ve Uluslararası
+Menkul Kıymetler Komisyonları Örgütü’nün (IOSCO) “Finansal Ölçütlere İlişkin Temel İlkeleri”ne uyumundan tam
+kontrol sahibi yönetici olarak sorumludur. Borsa İstanbul tarafından hesaplanmakta olan Finansal Ölçütlerin
+IOSCO’nun söz konusu ilkelerine uyumuna ilişkin bilgilere Borsa İstanbul kurumsal web sitesi, Endeksler – IOSCO
+Prensiplerine Uyum sayfasından erişilebilir. BIST Piyasa Değeri Ağırlıklı Pay Endeksleri’nin sürekliliğinin
+sağlanmasına yönelik iş ve işlemler Borsa İstanbul Endeks Direktörlüğü tarafından yürütülür.
+Endekslerin kapsamında yer alan paylara ilişkin listeler Borsa İstanbul tarafından bu Kural Seti çerçevesinde
+belirlenir ve hesaplamalarda kullanılır. Veri eksikliği veya olağandışı piyasa koşullarının varlığı nedeniyle
+endekslerin kapsamında yer alacak kıymetlerin belirlenememesi halinde endeksler son liste ile hesaplanmaya
+devam eder.
+1.3. Finansal Ölçütler Komitesi
+Finansal Ölçütler Komitesi (FÖK), Borsa İstanbul A.Ş. IOSCO Prensiplerine Uyumlu Finansal Ölçütler Yönergesi’nin
+“Kontrol sistemi” başlıklı 8 inci ve “Gözetim fonksiyonu” başlıklı 9 uncu maddelerinde açıklanan kontrol ve gözetim
+fonksiyonlarını ifa etmek üzere, Finansal Ölçütlerin kontrolü ve gözetimi kapsamında değerlendirebilecek her
+konuda görüş ve öneri oluşturmak amacıyla Borsa İstanbul tarafından oluşturulmuştur.
+FÖK, Finansal Ölçüt hesaplama faaliyetinin tüm aşamalarına ilişkin yönetim ve iç gözetim sorumluluğunu üstlenir.
+FÖK’ün görev ve sorumlulukları temel olarak, finansal ölçütlerin belirlenmesine ve ilanına, finansal ölçütlerin
+oluşturulmasına, kural setlerinin belirlenmesine, finansal ölçütlerin hesaplanmasına, finansal ölçütlerin
+yayımlanmasına ve dağıtılmasına, finansal ölçütlerin operasyonlarının yürütülmesine ilişkin olarak Borsa İstanbul
+A.Ş. Finansal Ölçütler Yönetim Prosedürü’nün 4. maddesinde belirtilen Karar Mercii’ne sunulmak üzere görüş
+oluşturmaktır. Komite, her dört ayda bir en az bir defa toplanır. Komite’nin tüm görev ve sorumlulukları ile üyelik
+yapısı Borsa İstanbul A.Ş. Finansal Ölçütler Yönetim Prosedürü’nün 5. maddesinde açıklanmaktadır. İlgili
+düzenlemelere Borsa İstanbul kurumsal web sitesi, Endeksler – IOSCO Prensiplerine Uyum sayfasından
+erişilebilmektedir.
+1.4. Kural Seti Değişiklikleri
+Borsa İstanbul, Kural Setini gözden geçirmek ve ihtiyaç halinde Finansal Ölçüt Yararlanıcılarının görüşlerini almak
+için yazılı politikalar ve Komitelerden oluşan bir yönetim ve gözetim yapısı oluşturmuştur.
+Kural Seti, her bir endeksin ölçmeyi hedeflediği değişimi en iyi şekilde yansıtmaya devam etmesini sağlamak için
+FÖK tarafından düzenli olarak (yılda en az 1 defa) gözden geçirilir.
+Finansal Ölçütlerin gözetimi kapsamında yapılan gözden geçirmeler (periyodik olan veya olmayan) sonucunda
+ve/veya Lisanslı Kullanıcıların veya Finansal Ölçüt Yararlanıcılarının talepleri sonucunda Kural Setinde güncelleme
+ihtiyacı ortaya çıkabilir.
+Kural Setinde yapılmasına karar verilen tüm değişiklikler, uygulamaya alınmadan önce, gerekçeleriyle ve ilgili diğer
+açıklamalarla birlikte, Borsa İstanbul kurumsal web sitesi, Endeksler – Kural Setleri ve Değişiklikleri sayfasında
+kamuya duyurulur.
+Kural Seti kapsamında düzenlenmemiş konularda yapılacak uygulama FÖK’ün teklifiyle Borsa İstanbul Genel
+Müdürlüğü tarafından belirlenir ve duyurulur.
+Ağustos 2025 4 Endeks Direktörlüğü
+===== PAGE 6 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+2. KISALTMALAR, TANIMLAR VE GENEL KURALLAR
+2.1. Kısaltmalar
+Bu Kural Setinde yer alan;
+• Borsa, Borsa İstanbul: Borsa İstanbul A.Ş.'yi,
+• FÖK: Finansal Ölçütler Komitesi’ni,
+• Kural Seti: BIST Piyasa Değeri Ağırlıklı Pay Endeksleri Kural Setini
+ifade eder.
+2.2. Pay Sayısı
+Şirketlerin özsermaye hallerine ilişkin olarak Borsa İstanbul tarafından Kamuyu Aydınlatma Platformu’nda (KAP–
+www.kap.org.tr) yapılan duyurular kapsamında ulaşılan şirket çıkarılmış veya ödenmiş sermayeleri (esas sermaye
+sisteminde yapılan sermaye artırımlarında sermayenin tescil ve ilanına kadar Merkezi Kayıt Kuruluşu’nda (MKK)
+oluşturulan geçici paylar da dahil olmak üzere) kullanılarak, Borsa İstanbul A.Ş. Pay Piyasası Prosedürü’nün “İşlem
+Birimi (Lot)” başlıklı 5.1.1 maddesine göre hesaplanan pay adetlerini ifade eder.
+2.3. Günlük Ortalama İşlem Hacmi
+Günlük Ortalama İşlem Hacmi, payların sadece “E” özellik kodlu ikincil piyasa işlemleri tutarının (özel işlem bildirimi
+kapsamındaki işlemleri hariç tutulur) her bir payın aynı dönemdeki işlem görebileceği gün sayısına bölünmesi
+suretiyle hesaplanır.
+2.4. Piyasa Değeri
+Piyasa Değeri, Pay Sayısının pay fiyatı ile çarpılması suretiyle hesaplanır.
+2.5. Fiili Dolaşımdaki Pay Oranı (FDPO)
+Fiili Dolaşımdaki Pay Oranı, Sermaye Piyasası Kurulu (SPK) tarafından, Borsa İstanbul piyasalarında işlem gören
+payların halka açıklık oranlarını gösterir bir kavram olarak tanımlanmış olup MKK tarafından hesaplanarak ilan
+edilmektedir.
+2.6. Ağırlık Katsayısı
+Ağırlık Katsayısı, payın endeks içindeki ağırlığını ayarlamaya yarayan 0’dan büyük, 1’den küçük veya 1’e eşit bir
+sayıdır. Sınırlama yapılan ve payların endeks içindeki ağırlığı özel olarak belirlenen endekslerde, payın fiili
+dolaşımda bulunan kısmının piyasa değeri bu katsayı ile çarpılarak dikkate alınır.
+2.7. FDP Ağırlık Katsayılı PD
+FDP Ağırlık Katsayılı PD (Fiili Dolaşımdaki Payların Ağırlık Katsayılı Piyasa Değeri), Piyasa Değerinin FDPO ve Ağırlık
+Katsayısı ile çarpılması suretiyle hesaplanır.
+2.8. Düzeltilmiş Fiyatlar
+Düzeltilmiş Fiyatlar, özsermaye halleri öncesindeki fiyatların, özsermaye hallerinde “Borsa İstanbul A.Ş. Özsermaye
+Hallerinde Payların Teorik/Referans Fiyatlarının Belirlenmesi Prosedürü”ne göre hesaplanan teorik/referans
+fiyatın, hesaplamada kullanılan son kapanış fiyatına bölünmesi suretiyle belirlenen katsayı ile çarpılmış halini ifade
+eder. Özsermaye hali öncesindeki pay sahiplerinin, özsermaye hali nedeniyle herhangi bir hak kullanımı söz konusu
+değilse katsayı “1” olarak alınır.
+2.9. Ortalama PD
+Ortalama PD (Ortalama Piyasa Değeri), Değerleme Dönemi sonu itibarıyla Pay Sayısının, Değerleme Dönemine ait
+Düzeltilmiş Fiyatların (kapanış) aritmetik ortalaması ile çarpılması suretiyle hesaplanır.
+Ağustos 2025 5 Endeks Direktörlüğü
+===== PAGE 7 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+2.10. Ortalama FDP PD
+Ortalama FDP PD (Fiili Dolaşımdaki Payların Ortalama Piyasa Değeri), Ortalama PD’nin, FDPO ile çarpılması
+suretiyle hesaplanır.
+2.11. Kurumsal Yönetim Derecelendirme Notu
+Kurumsal Yönetim Derecelendirme Notu, SPK’nın “Sermaye Piyasasında Derecelendirme Faaliyeti ve
+Derecelendirme Kuruluşlarına İlişkin Esaslar Tebliği” kapsamında, SPK tarafından belirlenmiş derecelendirme
+kuruluşları listesinde bulunan derecelendirme kuruluşları tarafından, şirketin kurumsal yönetim ilkelerine
+uyumuna ilişkin olarak verilen notu ifade eder.
+2.12. Döviz Kuru
+T.C. Merkez Bankası tarafından ilan edilen Döviz Alış kurlarını ifade eder.
+2.13. Endekslerin Versiyonları
+Endeksler, Fiyat ve Getiri olarak; TL, ABD$ ve Euro para birimlerinde hesaplanır.
+Fiyat Endeksi ve Getiri Endeksi arasındaki tek fark nakit temettü ödemelerinde ortaya çıkar. Nakit temettü
+ödemelerinde; Getiri Endeksinin bölen değerinde ödenen temettünün endekse dahil paylara ağırlıkları oranında
+yatırıldığı varsayımıyla düzeltme yapılırken, Fiyat Endeksinin bölen değerinde ödenen temettünün portföy dışına
+çıkarıldığı varsayımıyla düzeltme yapılmaz.
+Bazı endeksler için kapsamdaki payların birebir aynı olduğu ancak farklı ağırlık sınırlamalarına sahip versiyonları da
+hesaplanmaktadır. Bu durumda endeksin ağırlık sınırlamasız ve ağırlık sınırlamalı versiyonlarının her biri de Fiyat
+ve Getiri olarak; TL, ABD$ ve Euro para birimlerinde ayrıca hesaplanır.
+2.14. Kapsam Dışı Paylar
+Yakın İzleme Pazarı, Girişim Sermayesi Pazarı ve Piyasa Öncesi İşlem Platformu’nda işlem gören şirket payları ile
+Yapılandırılmış Ürünler ve Fon Pazarında işlem gören sermaye piyasası araçları endekslerin hiçbirine dahil edilmez.
+Menkul Kıymet Yatırım Ortaklıkları payları, BIST Menkul Kıymet Yatırım Ortaklıkları Endeksi hariç endekslerin
+hiçbirine dahil edilmez.
+2.15. Hesaplamaya Başlama / Son Verme
+Kapsamındaki pay sayısı sabit olan endeksler hariç olmak üzere, yeni bir endeksin hesaplanmaya başlayabilmesi
+için kapsamında yer alan şirket sayısının 5’e ulaşmış olması gerekir.
+Hesaplanmakta olan herhangi bir endeksin kapsamındaki şirket/pay sayısı 2’nin altına düşerse, yapılacak duyuruyu
+takip eden ayın son işlem günü sonunda endeksin hesaplanmasına son verilir. Bunun dışındaki durumlarda
+herhangi bir endeksin hesaplanmasına son verilmesinde, Borsa İstanbul A.Ş. Finansal Ölçütler Yönetim
+Prosedürü’nün “Finansal Ölçütlerin Hesaplanmasına Son Verilmesi” başlıklı 8 inci maddesi uygulanır.
+2.16. Değerleme Dönemi ve Değerleme Günü
+Değerleme Dönemi, endekslerin kapsamının belirlenmesine ilişkin yapılan periyodik gözden geçirme sırasında,
+değerlemede kullanılan verilerin ait olduğu dönemi ifade eder.
+Dönemsel değerleme yapılan endeksler ile değerlemede kullanılan verilerin ait olduğu gün ve dönemler aşağıdaki
+tabloda gösterilmiştir.
+Endeks Kullanılan Veri Değerleme Günü/Dönemi
+BIST 30 Pay Sayısı, Kasım, Şubat, Mayıs ve Ağustos aylarının son
+BIST 50 FDPO günü
+Ağustos 2025 6 Endeks Direktörlüğü
+===== PAGE 8 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+BIST 100
+BIST 500 Günlük Ortalama İşlem Hacmi, Kasım, Şubat, Mayıs ve Ağustos aylarının son
+BIST Likit Banka Düzeltilmiş Fiyatlar gününden geriye doğru 12 ay
+BIST Banka Dışı Likit 10
+Aralık, Mart, Haziran ve Eylül aylarının ilk
+Sürdürülebilirlik Notu
+Pazartesi günü
+BIST Sürdürülebilirlik Pay Sayısı, Kasım, Şubat, Mayıs ve Ağustos aylarının son
+BIST Sürdürülebilirlik 25 FDPO günü
+Günlük Ortalama İşlem Hacmi, Kasım, Şubat, Mayıs ve Ağustos aylarının son
+Düzeltilmiş Fiyatlar gününden geriye doğru 12 ay
+Net Kar,
+BIST Temettü Brüt Nakit Temettü Tutarı, Mart, Haziran, Eylül ve Aralık ayının son günü
+Bedelli Sermaye Artırım Tutarı
+Pay Sayısı,
+FDPO, Mart, Haziran, Eylül ve Aralık ayının son günü
+BIST Temettü 25 Temettü Verimi
+Günlük Ortalama İşlem Hacmi, Mart, Haziran, Eylül ve Aralık ayının son
+Düzeltilmiş Fiyatlar gününden geriye doğru 12 ay
+Mayıs ve Ekim aylarının ilk işlem gününden
+KAFİF Formu Verileri
+önceki beşinci işlem günü
+BIST Katılım 30
+BIST Katılım 50 Pay Sayısı,
+Mart ve Ağustos aylarının son günü
+BIST Katılım 100 FDPO
+BIST Katılım Tüm
+Günlük Ortalama İşlem Hacmi, Mart ve Ağustos aylarının son gününden geriye
+Düzeltilmiş Fiyatlar doğru 12 ay
+Satış Hasılatı,
+BIST KOBİ Sanayi Nisan ayının son günü
+Aktif Toplam
+BIST Geri Alım Geri Alım Verileri Her ayın son günü
+2.17. Endeks Dönemi ve Dönemsel Değişikliklerin İlanı
+Endeks Dönemi, endekslerin kapsamına ilişkin yapılan periyodik gözden geçirme sonucunda endekslerin
+kapsamında yapılacak dönemsel değişikliklerin geçerli olacağı dönemi ifade eder.
+Dönemsel değerleme yapılan endeksler ile Endeks Dönemleri ve endekslerin kapsamında dönemsel olarak
+yapılacak değişikliklerin ilgili Endeks Dönemi başından kaç gün önce ilan edileceği aşağıdaki tabloda gösterilmiştir.
+Endeks Endeks Dönemi İlan Tarihi
+BIST 30
+BIST 50
+BIST 100 Ocak - Mart
+BIST 500 Nisan - Haziran
+En az 10 Takvim Günü Önce
+BIST Likit Banka Temmuz - Eylül
+BIST Banka Dışı Likit 10 Ekim - Aralık
+BIST Sürdürülebilirlik
+BIST Sürdürülebilirlik 25
+Şubat - Nisan
+BIST Temettü Mayıs - Temmuz
+En az 10 Takvim Günü Önce
+BIST Temettü 25 Ağustos - Ekim
+Kasım - Ocak
+BIST KOBİ Sanayi Haziran - Mayıs En az 10 Takvim Günü Önce
+BIST Katılım 30 Mayıs - Eylül
+En az 2 İş Günü Önce
+BIST Katılım 50 Ekim - Nisan
+Ağustos 2025 7 Endeks Direktörlüğü
+===== PAGE 9 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+BIST Katılım 100
+BIST Katılım Tüm
+Her Ayın 5. İşlem Gününden
+BIST Geri Alım En az 2 İş Günü Önce
+Sonraki Ayın 4. İşlem Gününe
+2.18. Hesaplanma ve Yayım Sıklığı
+Endeksler, Borsa İstanbul Pay Piyasası’nın açık olduğu zamanlarda hesaplanır. Endekslerin hesaplanma ve yayım
+sıklığı aşağıdaki tabloda gösterilmiştir.
+Endeks Versiyon Hesaplama Sıklığı
+BIST 30 TL - Fiyat
+BIST 100 Saniyede 1
+TL - Getiri
+BIST 500
+BIST Likit Banka
+BIST Banka Dışı Likit 10
+BIST Temettü 25
+BIST Temettü 25 Ağırlık Sınırlamalı 10
+ABD$ - Fiyat
+BIST Sürdürülebilirlik 25
+ABD$ - Getiri
+BIST Katılım 30 Seans Sonunda
+Euro - Fiyat
+BIST Katılım 50
+Euro - Getiri
+BIST Katılım Sürdürülebilirlik
+BIST Katılım Temettü
+BIST Sınai
+BIST Banka
+TL – Fiyat
+10 Saniyede 1
+TL - Getiri
+ABD$ - Fiyat
+Diğer Endeksler
+ABD$ - Getiri
+Seans Sonunda
+Euro - Fiyat
+Euro - Getiri
+2.19. Veri Hassasiyeti
+Veri Veri Hassasiyeti
+Endeks Değerleri Tam sayıdan sonra 2 hane
+Endeks Bölen Değerleri Tam sayıdan sonra 8 hane
+Fiili Dolaşımdaki Pay Oranları FDPO < %1 ise tam sayıdan sonra 2 hane,
+FDPO (%) FDPO >= %1 ise tam sayı
+Ağırlık Katsayısı Tam sayıdan sonra 12 hane
+2.20. Temettü Verimi
+Temettü Ödenen Temettü i −Sermaye Artırım Tutarı i
+=
+Verimi Piyasa Değeri
+i i
+Temettü Verimi : “i” şirketinin Değerleme Günü itibarıyla hesaplanan temettü verimini
+i
+Ödenen Temettü : “i” şirketinin içinde bulunduğu mali dönemde ödediği toplam brüt nakit temettü tutarını
+i
+Sermaye Artırım Tutarı : “i” şirketinin içinde bulunduğu mali dönemde ortaklara rüçhan hakkı kullandırarak yaptığı bedelli
+i
+sermaye artırım tutarı ile rüçhan hakkı kullandırma fiyatının çarpılması sonucunda elde edilen tutarların toplamını
+Piyasa Değeri : “i” şirketinin Ortalama PD’sini
+i
+ifade eder.
+Ağustos 2025 8 Endeks Direktörlüğü
+===== PAGE 10 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+2.21. Sınırlama Parametreleri
+Sınırlama Oranı, sınırlama yöntemi uygulandığında payın endeks içindeki ağırlığının sınırını belirleyen orandır.
+Ağırlık Eşiği, payın herhangi bir işlem günü sonunda endeks içinde sahip olabileceği ağırlığın üst sınırını belirleyen
+orandır.
+Sınırlama Oranı ve Ağırlık Eşiği uygulanan endeksler ile sınırlama parametreleri aşağıdaki tabloda yer almaktadır:
+Endeks Sınırlama Oranı Ağırlık Eşiği
+BIST 30 Ağırlık Sınırlamalı 10 %10 %15
+BIST 30 Ağırlık Sınırlamalı 25 %25 %30
+BIST 50-30 Ağırlık Sınırlamalı 10 %10 %15
+BIST 50-30 Ağırlık Sınırlamalı 25 %25 %30
+BIST 100 Ağırlık Sınırlamalı 10 %10 %15
+BIST 100 Ağırlık Sınırlamalı 25 %25 %30
+BIST Halka Arz %20 %30
+BIST Teknoloji Ağırlık Sınırlamalı %20 %30
+BIST Likit Banka %25 %30
+BIST Banka Dışı Likit 10 %25 %30
+BIST Sürdürülebilirlik %15 %20
+BIST Sürdürülebilirlik 25 %10 %15
+BIST Katılım 30 %10 %15
+BIST Katılım 50 %10 %15
+BIST Katılım 100 %10 %15
+BIST Katılım Sürdürülebilirlik %10 %15
+BIST Katılım Temettü %10 %15
+BIST Temettü 25 Ağırlık Sınırlamalı 10 %10 %15
+BIST Geri Alım %20 %30
+BIST Sınai Ağırlık Sınırlamalı %20 %30
+BIST Gayrimenkul Y.O. Ağırlık Sınırlamalı %20 %30
+2.22. Sınırlama Yöntemi
+Tüm sınırlamalar, takip eden işlem günü için geçerli özsermaye hali işlemleri, FDPO değişiklikleri ve kapsam
+değişiklikleri gibi tüm endeks işlemleri yapıldıktan sonra gerçekleştirilir.
+Endekslerin kapsamında değişiklik olduğunda sınırlama yapılmadan (varsa sınırlama kaldırılarak) endeks
+kapsamında yer alan payların ağırlıkları kontrol edilir, ağırlığı Sınırlama Oranından büyük olan paylar varsa, payların
+ağırlıkları katsayılar aracılığıyla Sınırlama Oranına çekilir.
+Kapsamında yer alan paylar periyodik olarak gözden geçirilen endekslerde, Endeks Dönemi başında, varsa endeks
+kapsamındaki değişiklikler yapıldıktan sonra sınırlama yapılmadan (varsa sınırlama kaldırılarak) endeks
+kapsamında yer alan payların ağırlıkları kontrol edilir. Ağırlığı Sınırlama Oranından büyük olan paylar varsa, payların
+ağırlıkları katsayılar aracılığıyla Sınırlama Oranına çekilir. Bu uygulama, periyodik gözden geçirmeye tabi olmayan
+endekslerde ise Ocak, Nisan, Temmuz ve Ekim ayları başından itibaren geçerli olacak şekilde yapılır.
+Ayrıca her işlem günü sonunda endeks kapsamında yer alan payların ağırlıkları kontrol edilir, ağırlığı endeksin
+Ağırlık Eşiğini aşan paylar varsa, sınırlamalar kaldırılarak payların ağırlıkları katsayılar aracılığıyla Sınırlama Oranına
+çekilir.
+Ağustos 2025 9 Endeks Direktörlüğü
+===== PAGE 11 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+Ağırlık kontrolleri endekslerin sadece TL olarak hesaplanan fiyat versiyonlarında yapılır. Endekslerin TL olarak
+hesaplanan getiri versiyonları ile ABD$ ve Euro versiyonlarında TL olarak hesaplanan fiyat endeksi için belirlenen
+katsayılar kullanılır.
+2.23. Sürdürülebilirlik Değerlemesini Yapan Kuruluş
+Borsa İstanbul, Sürdürülebilirlik Değerlemesi konusunda London Stock Exchange Group ("LSEG") ile çalışmaktadır.
+2.24. Sürdürülebilirlik Notu
+LSEG Sürdürülebilirlik Değerleme Metodolojisi çerçevesinde LSEG tarafından;
+a) Şirketlerin girdiği veriler ağırlıklandırılarak kategori ve ana başlık notları,
+b) 3 ana başlıktaki notları dikkate alınarak da şirketin Sürdürülebilirlik Notu (ESG Score)
+belirlenmektedir.
+2.25. Standart
+Türkiye Katılım Bankaları Birliği (TKBB) Danışma Kurulu tarafından oluşturulan “Pay Senedi İhracı ve Alım-Satımı
+Standardı”nı ifade etmektedir. Söz konusu Standarda https://tkbb.org.tr/danisma-kurulu/standartlar adresinden
+ulaşılabilir.
+2.26. Rehber
+TKBB Danışma Kurulu tarafından oluşturulan “Katılım Finans İlkelerine Uygun Faaliyet Gösteren Şirketlerin
+Belirlenmesinde Esas Alınacak Rehber”i ifade etmektedir. Söz konusu Rehbere https://tkbb.org.tr/danisma-
+kurulu/rehberler adresinden ulaşılabilir.
+2.27. KAFİF Formu
+BIST Katılım Tüm Endeksi dönemsel değerleme çalışmalarında kullanılmak üzere, şirketlerin katılım finans
+ilkelerine uygun faaliyet gösterip göstermediğini belirlemeye yönelik olarak oluşturulan ve şirketler tarafından,
+Standart ve Rehber dikkate alınmak suretiyle doldurularak KAP’ta ilan edilen “Katılım Finans İlkeleri Bilgi Formu”nu
+ifade etmektedir.
+2.28. KAFİF Komitesi
+KAFİF Komitesi, Katılım Finans İlkeleri Bilgi Formu Değerlendirme Komitesini ifade eder. Borsa İstanbul’da işlem
+görmekte olan veya işlem görmek üzere halka arz edilecek olan şirketlerin BIST Katılım Tüm Endeksi seçim
+kriterlerini karşılayıp karşılamadıklarını belirlemeye yönelik çalışmaları yürütmek amacıyla oluşturulmuştur.
+Komite altı kişiden oluşur. Komite üyelerinin üçü Borsa İstanbul, üçü TKBB tarafından atanır. Komite, çalışmalarını
+Standart, Rehber ve bu Kural Seti kapsamında yürütür.
+2.29. Geri Alım Verileri
+KAP’ta “Payların Geri Alınmasına İlişkin Bildirim” adlı şablonla yapılan bildirimlerde açıklanan verileri ifade
+etmektedir.
+3. HESAPLANAN ENDEKSLER ve BAŞLANGIÇ BİLGİLERİ
+3.1. BIST 100 Endeksi
+Borsa İstanbul Pay Piyasası için temel endeks olarak kullanılmaktadır.
+Yıldız Pazar’da işlem gören şirketler arasından seçilen 100 paydan oluşmakta olup BIST 30 ve BIST 50 endekslerine
+dahil payları da kapsar.
+3.2. BIST 50 Endeksi
+Yıldız Pazar’da işlem gören şirketler arasından seçilen 50 paydan oluşmakta olup BIST 30 endeksine dahil payları
+da kapsar.
+Ağustos 2025 10 Endeks Direktörlüğü
+===== PAGE 12 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+3.3. BIST 30 Endeksi
+Yıldız Pazar’da işlem gören şirketler arasından seçilen 30 paydan oluşur.
+3.4. BIST 50-30 Endeksi
+BIST 50 Endeksine dahil olup BIST 30 Endeksinde yer almayan 20 paydan oluşur.
+3.5. BIST 100-30 Endeksi
+BIST 100 Endeksine dahil olup BIST 30 Endeksinde yer almayan 70 paydan oluşur.
+3.6. BIST 500 Endeksi
+Yıldız Pazar, Ana Pazar ve Alt Pazar’da işlem gören şirketler arasından seçilen 500 paydan oluşur.
+3.7. BIST Likit Banka Endeksi
+Yıldız Pazar’da işlem gören şirketler arasından seçilen, Ortalama FDP PD ve Günlük Ortalama İşlem Hacmi yüksek
+banka paylarından oluşur.
+3.8. BIST Banka Dışı Likit 10 Endeksi
+Yıldız Pazar’da işlem gören şirketler arasından seçilen, Ortalama FDP PD ve Günlük Ortalama İşlem Hacmi yüksek,
+banka olmayan 10 şirket payından oluşur.
+3.9. BIST Kurumsal Yönetim Endeksi
+Yıldız Pazar, Ana Pazar ve Alt Pazar’da işlem gören ve belirlenmiş asgari kurumsal yönetim derecelendirme notuna
+sahip olan şirketlerin paylarından oluşur.
+3.10. BIST Sürdürülebilirlik Endeksi
+Yıldız Pazar, Ana Pazar veya Alt Pazar’da işlem gören, sürdürülebilirlik değerlemelerine dahil olmak için gönüllü
+olan ve belirlenmiş asgari sürdürülebilirlik notuna sahip şirketlerin paylarından oluşur.
+3.11. BIST Sürdürülebilirlik 25 Endeksi
+BIST Sürdürülebilirlik Endeksi kapsamında yer alan ve yüksek sürdürülebilirlik notuna sahip şirketler arasından
+seçilen, Ortalama FDP PD ve Günlük Ortalama İşlem Hacmi yüksek 25 paydan oluşur.
+3.12. BIST Katılım Tüm Endeksi
+Yıldız Pazar, Ana Pazar ve Alt Pazar’da işlem gören şirketlerden, Standartta açıklanan prensiplere uygun
+faaliyetlerde bulunan şirketlerin paylarından oluşur.
+3.13. BIST Katılım 100 Endeksi
+Değerleme Günü itibarıyla BIST Katılım Tüm Endeksinde yer alan şirketler arasından seçilen 100 paydan oluşmakta
+olup BIST Katılım 50 Endeksine dahil payları da kapsar.
+3.14. BIST Katılım 50 Endeksi
+Değerleme Günü itibarıyla BIST Katılım Tüm Endeksinde yer alan şirketler arasından seçilen 50 paydan oluşmakta
+olup BIST Katılım 30 Endeksine dahil payları da kapsar.
+3.15. BIST Katılım 30 Endeksi
+Değerleme Günü itibarıyla BIST Katılım Tüm Endeksinde yer alan şirketler arasından seçilen 30 paydan oluşur.
+3.16. BIST Katılım Sürdürülebilirlik Endeksi
+Hem BIST Katılım Tüm hem de BIST Sürdürülebilirlik endekslerinde yer alan paylardan oluşur.
+Ağustos 2025 11 Endeks Direktörlüğü
+===== PAGE 13 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+3.17. BIST Tüm Endeksi
+Yıldız Pazar, Ana Pazar ve Alt Pazar da işlem gören şirketlerin paylarından oluşur.
+3.18. BIST Tüm-100 Endeksi
+BIST Tüm Endeksine dahil olup BIST 100 Endeksinde yer almayan paylardan oluşur.
+3.19. BIST Sektör ve BIST Alt Sektör Endeksleri
+Yıldız Pazar, Ana Pazar ve Alt Pazar’da işlem gören şirketlerin paylarından oluşur.
+3.20. BIST Yıldız Endeksi
+Yıldız Pazar’da işlem gören şirketlerin paylarından oluşur.
+3.21. BIST Ana Endeksi
+Ana Pazar’da işlem gören şirketlerin paylarından oluşur.
+3.22. BIST Menkul Kıymet Yatırım Ortaklıkları Endeksi
+Yıldız Pazar, Ana Pazar ve Alt Pazar’da işlem gören menkul kıymet yatırım ortaklıklarının paylarından oluşur.
+3.23. BIST Şehir Endeksleri
+Yıldız Pazar, Ana Pazar ve Alt Pazar’da işlem gören ve ana üretim/hizmet faaliyetlerinin gerçekleştiği ya da şirket
+merkezinin bulunduğu şehre göre gruplandırılmış paylardan oluşur.
+3.24. BIST Temettü Endeksi
+Yıldız Pazar, Ana Pazar ve Alt Pazar’da işlem gören ve son 3 yılda nakit temettü dağıtan şirketlerin paylarından
+oluşur.
+3.25. BIST Temettü 25 Endeksi
+BIST Temettü Endeksinde yer alan, Değerleme Günü itibarıyla temettü verimlerine göre büyükten küçüğe doğru
+yapılan sıralamada ilk 2/3’lük dilimde yer alan, Ortalama FDP PD’si ve Günlük Ortalama İşlem Hacmi yüksek 25
+paydan oluşur.
+3.26. BIST Katılım Temettü Endeksi
+Hem BIST Katılım Tüm hem de BIST Temettü endekslerinde yer alan paylardan oluşur.
+3.27. BIST Halka Arz Endeksi
+Halka arz edilerek, Yıldız Pazar, Ana Pazar ve Alt Pazar’da işlem görmeye başlayan şirketlerin paylarından oluşur.
+3.28. BIST KOBİ Sanayi Endeksi
+Yıldız Pazar, Ana Pazar ve Alt Pazar’da işlem gören sanayi şirketlerinden, “Küçük ve Orta Büyüklükteki İşletmeler
+Yönetmeliği’nde belirlenen çalışan sayısı hariç, yıllık net satış hasılatı veya mali bilanço büyüklüğü şartlarından
+herhangi birisini sağlayanların paylarından oluşur.
+3.29. BIST Geri Alım Endeksi
+Yıldız Pazar, Ana Pazar ve Alt Pazar’da işlem gören, Sermaye Piyasası Kurulu’nun II-22.1 sayılı “Geri Alınan Paylar
+Tebliği” (Tebliğ) ile ilgili İlke Kararları kapsamında kendi paylarını satın almak üzere Geri Alım Programı uygulayan
+şirketlerin paylarından oluşur.
+3.30. Endekslerin Başlangıç Bilgileri
+BIST Piyasa Değeri Ağırlıklı Pay Endekslerinin başlangıç değerleri ve tarihlerine ilişkin bilgilere Borsa İstanbul
+internet sitesi – BIST Pay Endeksleri sayfasından (https://www.borsaistanbul.com/files/bist-endeks-kodlari-ve-
+baslangic-degerleri.xlsx) ulaşılabilir.
+Ağustos 2025 12 Endeks Direktörlüğü
+===== PAGE 14 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+4. HESAPLAMA FORMÜLÜ
+Endeksler, kapsamlarında bulunan payların FDP Ağırlık Katsayılı PD’leri (Fiili Dolaşımdaki Payların Ağırlık Katsayılı
+Piyasa Değeri) ile ağırlıklı olarak hesaplanır.
+Endekslerin hesaplanmasında aşağıdaki formül kullanılır:
+n
+ (Fit / Dt) * Nit * Hit * Kit
+i=1
+____________________________
+Et =
+Bt
+Et = Endeksin t zamandaki değeri
+N = Endekse dahil olan pay (şirket) sayısı
+Fit = “i” nci payın t zamandaki fiyatı
+Nit = “i” nci payın t zamandaki toplam sayısı
+Hit = “i” nci payın t zamandaki endeks hesaplamasında kullanılan fiili dolaşımda bulunan kısmının
+toplam Pay Sayısına oranı
+Kit = “i” nci payın t zamandaki katsayısı
+Dt = Endeksin döviz kurunun t zamandaki değeri
+Bt = Endeksin t zamandaki bölen değeri
+5. ENDEKSLERDE DÜZELTME
+5.1. Madde 5.2’de sayılan durumlar nedeniyle endeks formülünün payında değişiklik meydana
+gelmesi halinde, endekslerin bölen değerinde düzeltme yapılarak devamlılık sağlanır.
+Endekslerin düzeltilmiş bölen değeri aşağıdaki formül ile hesaplanır:
+PD
+B = (1 + __________)  B
+t+1 t
+PD
+t
+B = t+1 gününde kullanılacak düzeltilmiş bölen değer
+t+1
+PD = Madde 5.2’de tanımlanan durumlar nedeniyle payların FDP Ağırlık Katsayılı PD’sinde
+meydana gelen toplam değişiklik
+PD = “t” günü endeks kapsamındaki payların FDP Ağırlık Katsayılı PD’si
+t
+B = “t” günü bölen değeri
+t
+İşlem gören şirketlerin sermaye artırımı ve/veya temettü ödemelerinin Türk Lirasından farklı bir para birimi
+cinsinden gerçekleştirilmesi halinde, endekslerin bölen değerinin düzeltilmesinde, ilgili işlemin başlangıç
+tarihinden bir önceki iş gününe ait döviz kuru kullanılarak Türk Lirasına çevrilen tutarlar kullanılır.
+5.2. Endekslerin bölen değerinde düzeltme yapılmasını gerektiren durumlar ve düzeltmenin
+yapılma zamanları:
+KAP’ta yapılan bildirimlere bağlı olarak gerçekleştirilecek endeks işlemlerinde, ilgili bildirimin söz konusu endeks
+işleminin gerçekleşme tarihinden bir önceki iş günü en geç saat 16:30’a kadar (yarım gün ise en geç saat 12:00’a
+kadar) KAP’ta yayımlanmış olması gerekir. Aksi takdirde bildirim takip eden iş günü yayımlanmış kabul edilir ve
+ilgili düzeltme, bildirimin KAP’ta yayımlandığı günü takip eden ikinci işlem günü geçerli olacak şekilde yapılır.
+Nakit temettü ödemesi dışındaki bütün düzeltmeler hem fiyat hem de getiri endekslerinde yapılır.
+a) Nakit temettü ödemesi:
+Düzeltme temettü ödemeye başlama tarihinde, net temettü tutarı dikkate alınarak sadece getiri endekslerinde
+yapılır.
+Ağustos 2025 13 Endeks Direktörlüğü
+===== PAGE 15 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+b) Rüçhan hakkı kullandırılarak bedelli sermaye artırımı:
+i) Payın son kapanış fiyatı ve/veya temettü ve bedelsiz hakkı kullanılmış olarak hesaplanan fiyatı rüçhan
+hakkı kullandırma fiyatına eşit veya daha yüksekse:
+Düzeltme, rüçhan hakkı kullanımı başlama tarihinde geçerli olacak şekilde yapılır. Ancak rüçhan hakkı kullanımı ve
+kalan payların Birincil Piyasa’da satışını müteakip, sermayenin öngörülen tutara yükseltilememesi halinde
+satılamayan paylara ilişkin iptal bildiriminin KAP’ta yayımlandığı günü takip eden dördüncü işlem günü geçerli
+olacak şekilde tekrar düzeltme yapılır.
+ii) Payın son kapanış fiyatı ve/veya temettü ve bedelsiz hakkı kullanılmış olarak hesaplanan fiyatı rüçhan
+hakkı kullandırma fiyatının altındaysa:
+Bedelli artırım tutarına ilişkin düzeltme, rüçhan hakkı kullanımı ve kalan payların Birincil Piyasa’da satışını müteakip
+sermaye artırım sürecinin tamamlandığının KAP’ta yayımlandığı günü takip eden dördüncü işlem günü geçerli
+olacak şekilde yapılır.
+c) Rüçhan hakkı kullandırılmayarak bedelli sermaye artırımı:
+i) Artırılan sermayeyi temsil eden payların tahsisli olarak satılması halinde düzeltme, satış işleminin bitiş
+tarihini takip eden işlem günü geçerli olacak şekilde yapılır.
+ii) Artırılan sermayeyi temsil eden payların halka arz edilmesi halinde düzeltme, satış işleminin bitiş tarihini
+takip eden dördüncü işlem günü geçerli olacak şekilde yapılır.
+d) Endekslere yeni pay alınması:
+Düzeltme, yeni payın endekslere alındığı gün geçerli olacak şekilde yapılır.
+e) Endekslerden pay çıkarılması:
+Düzeltme, payın endekslerden çıkarıldığı gün geçerli olacak şekilde yapılır.
+f) Fiili Dolaşımdaki Pay Oranının (FDPO) değişmesi:
+i) MKK tarafından haftanın son iş günü için ilan edilen fiili dolaşımdaki pay oranlarındaki değişimler takip
+edilerek, özsermaye halleri nedeniyle meydana gelenler dışında diğer nedenlerle oluşan değişimlerin
+büyüklüğüne bakılır.
+FDPO;
+• %50 ve daha küçükse ve oranda 5 puan veya daha fazla bir değişim varsa,
+• %50’den daha büyükse ve oranda 10 puan veya daha fazla bir değişim varsa
+düzeltme, takip eden haftanın üçüncü işlem günü geçerli olacak şekilde yapılır.
+ii) İkincil piyasada ilk defa işlem görmeye başlayan payların fiili dolaşımdaki pay oranları, “i)” maddesinde
+belirtilen eşiklere tabi olmadan, işlem görmeye başladıkları ilk haftanın son iş günü için MKK tarafından
+ilan edilen fiili dolaşımdaki pay oranları ile takip eden haftanın üçüncü işlem günü geçerli olacak şekilde
+düzeltilir.
+iii) İki veya daha az işlem gününden oluşan haftalarda “i)” maddesine göre FDPO değişikliği yapılmaz.
+iv) Endekslerde düzeltme yapılmasını gerektiren durumlarda FDPO’nun değiştirilmesi halinde FDPO, MKK
+tarafından açıklanan son veri dikkate alınarak değiştirilir.
+v) Ortakların sahip olduğu payların, halka arz edilmesi halinde satış işleminin bitiş tarihini takip eden
+dördüncü işlem günü geçerli olacak şekilde FDPO değişikliği yapılır.
+vi) Gerekli görülmesi halinde Borsa İstanbul Genel Müdürlük kararı ile fiili dolaşımdaki pay oranlarında
+değişiklik yapılabilir.
+g) Şirketlerin birleşmesi:
+Ağustos 2025 14 Endeks Direktörlüğü
+===== PAGE 16 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+Düzeltme, birleşme nedeniyle ihraç edilen payların dağıtım tarihinde geçerli olacak şekilde yapılır.
+h) Şirketin bölünmesi:
+Düzeltme, bölünme nedeniyle ihraç edilen payların dağıtım tarihinde geçerli olacak şekilde yapılır.
+i) Halka arzlarda satışa hazır bekletilen payların satışı:
+Düzeltme, satışa ilişkin KAP’ta yayımlanan bildirim dikkate alınarak, satışın yapıldığı ayı takip eden ayın dördüncü
+işlem günü geçerli olacak şekilde yapılır.
+j) Birden fazla payı ayrı sıralarda işlem gören şirketlerde işlem gören payların sayısını değiştiren pay dönüşümü:
+Düzeltme, pay dönüşümünün yapıldığına ilişkin açıklamanın KAP’ta yayımlandığı günü takip eden ikinci işlem günü
+geçerli olacak şekilde yapılır.
+6. ENDEKSLERDE YER ALACAK PAYLARIN SEÇİMİ
+6.1. BIST 30, BIST 50 ve BIST 100 Endeksleri
+a) BIST 30, BIST 50 ve BIST 100 Endeksleri Seçim Havuzunda, ilgili Endeks Dönemi’nde Yıldız Pazar’da yer alacağı
+ilan edilen paylardan Değerleme Günü itibarıyla Borsa İstanbul’da en az 60 gün süreyle işlem görmüş olanlar
+yer alır. Madde 8.5 uyarınca endekslere dahil edilen paylar için 60 gün süreyle işlem görme şartı aranmaz.
+b) BIST 100 Endeksinde yer alacak paylar, madde 6.1.a uygulandıktan sonra kalan pay sayısı;
+i) 113’e eşit veya daha fazla ise sadece Yıldız Pazar’da yer alacağı ilan edilen paylardan,
+ii) 113’den az ise, Yıldız Pazar’da ve Borsa İstanbul pazar gruplandırması çalışması ile ilan edilen BIST 100’ün
+oluşturulmasında kullanılacak ek paylar listesinde yer alan payların tamamından,
+iii) 110’den az ise, bir önceki Değerleme Dönemi’nde seçim havuzunda yer alıp, içinde bulunulan Değerleme
+Dönemi’nde seçim havuzunda yer almayan paylar da eklenmek suretiyle
+oluşturulacak Seçim Havuzundan madde 7.1’e göre sıralama ve madde 7.2’ye göre seçim yapılarak belirlenir.
+c) BIST 30 ve BIST 50 endekslerinde yer alacak paylar, Yıldız Pazar’da yer alacağı ilan edilen paylar arasından 6.1.a
+maddesine göre oluşturulacak Seçim Havuzundan, madde 7.1’e göre sıralama ve madde 7.2’ye göre seçim
+yapılarak belirlenir.
+6.2. BIST 500 Endeksi
+a) “Yıldız Pazar, Ana Pazar ve Alt Pazarda İşlem Gören Payların Yeniden Belirlenmesi Hk. Duyuru” (Duyuru) ile
+ilan edilen paylar BIST 500 Endeksi Seçim Havuzunda yer alabilir.
+b) Duyuru’ya göre ilgili Endeks Döneminde Yıldız Pazar’da yer alacağı ilan edilen pay sayısı, 3’ü yedek olmak üzere
+503 veya daha fazla ise, BIST 500 Endeksinde yer alacak paylar ve/veya yedek paylar, ilgili Endeks Dönemi’nde
+Yıldız Pazar yer alacağı ilan edilen paylardan oluşturulacak Seçim Havuzundan madde 7.1’e göre sıralama ve
+madde 7.2’ye göre seçim yapılarak belirlenir.
+c) Duyuru’ya göre ilgili Endeks Döneminde Yıldız Pazar’da yer alacağı ilan edilen pay sayısı, 3’ü yedek olmak üzere
+503’den az ise Yıldız Pazar’da yer alacağı ilan edilen paylar doğrudan BIST 500 Endeksine dahil edilir. Kalan
+kısım, Duyuru’ya göre ilgili Endeks Dönemi’nde Ana Pazar’da yer alacağı ilan edilen paylardan oluşturulacak
+Seçim Havuzundan madde 7.1’e göre sıralama ve madde 7.2’ye göre seçim yapılarak belirlenir.
+d) Duyuru’ya göre ilgili Endeks Döneminde Yıldız Pazar ve Ana Pazar’da yer alacağı ilan edilen payların toplam
+sayısı, 3’ü yedek olmak üzere 503’den az ise Yıldız Pazar ve Ana Pazar’da yer alacağı ilan edilen paylar doğrudan
+BIST 500 Endeksine dahil edilir. Kalan kısım, Duyuru’ya göre ilgili Endeks Dönemi’nde Alt Pazar’da yer alacağı
+ilan edilen paylardan oluşturulacak Seçim Havuzundan madde 7.1’e göre sıralama ve madde 7.2’ye göre seçim
+yapılarak belirlenir.
+e) Birden fazla grup payı ayrı sıralarda işlem gören şirketlerin, sadece Ortalama FDP PD’si en yüksek olan payı
+endekse dahil edilir.
+Ağustos 2025 15 Endeks Direktörlüğü
+===== PAGE 17 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+6.3. BIST Likit Banka Endeksi
+a) BIST Likit Banka endeksinde yer alacak paylar, ilgili Endeks Dönemi’nde Yıldız Pazar’da yer alacak banka payları
+arasından seçilir.
+b) Payların endekslere alınabilmesi için Değerleme Dönemi sonu itibarıyla Borsa İstanbul’da en az 60 gün süreyle
+işlem görmesi şarttır.
+c) Birden fazla grup payı ayrı sıralarda işlem gören bankaların, sadece Ortalama FDP PD’si en yüksek olan payı
+dikkate alınır.
+d) Endekste yer alacak payların seçimi aşağıdaki gibi yapılır.
+i) Bu maddenin a, b ve c bentlerine göre belirlenen paylar, Değerleme Dönemindeki Günlük Ortalama İşlem
+Hacimlerine göre büyükten küçüğe doğru sıralanır.
+ii) Günlük Ortalama İşlem Hacimleri toplamının %90’ına ulaşıncaya kadar sıralı paylar endeks kapsamında
+dahil edilir.
+iii) Endekste yer alacak pay sayısı en az 6 olmalıdır. Günlük Ortalama İşlem Hacimleri toplamının %90’ına
+6’dan daha az sayıda payla ulaşılması durumunda endeksteki pay sayısı 6’ya ulaşıncaya kadar sıradaki
+paylar endeks kapsamında dahil edilir.
+iv) Yıldız Pazar’daki bankaların sayısı 6 ise Yıldız Pazar’da yer alan 6 bankanın tamamı endekste yer alır.
+v) Yıldız Pazar’daki bankaların sayısının 6’dan az olması halinde, Yıldız Pazar’daki bankaların tamamı endekse
+alınır. Eksik kalan kısım, Ana Pazar’daki bankalar arasından bu maddenin b ve c bentleri uygulanarak
+Günlük Ortalama İşlem Hacmi en yüksek paylar endekse dahil edilmek suretiyle tamamlanır.
+6.4. BIST Banka Dışı Likit 10 Endeksi
+a) BIST Banka Dışı Likit 10 endeksinde yer alacak paylar, ilgili Endeks Dönemi’nde Yıldız Pazar’da yer alacak ve
+banka olmayan şirket payları arasından seçilir.
+b) Payların endekslere alınabilmesi için Değerleme Dönemi sonu itibarıyla Borsa İstanbul’da en az 60 gün süreyle
+işlem görmesi şarttır.
+c) Birden fazla grup payı ayrı sıralarda işlem gören şirketlerin, sadece Ortalama FDP PD’si en yüksek olan payı
+dikkate alınır.
+d) Endekste yer alacak payların seçimi aşağıdaki gibi yapılır.
+i) Bu maddenin a, b, c bentlerine göre belirlenen paylar, Değerleme Dönemindeki Günlük Ortalama İşlem
+Hacmine göre büyükten küçüğe doğru sıralanır.
+ii) İlk 10 pay endekse alınır, takip eden 3 pay yedek olarak belirlenir.
+6.5. BIST Kurumsal Yönetim Endeksi
+a) Şirketlerin paylarının Kurumsal Yönetim Endeksi kapsamına alınabilmesi için gereken asgari Kurumsal Yönetim
+Derecelendirme Notu 10 üzerinden 8, her bir ana başlık itibarıyla 10 üzerinden 7 olarak belirlenmiştir.
+b) Derecelendirme notunun derecelendirme yaptırmak isteyen şirketin talebi nedeniyle verilmesi ve yıllık olarak
+yenilenmesi şarttır.
+c) Birden fazla derecelendirme kuruluşundan alınan derecelendirme notlarından en son alınan derecelendirme
+notu dikkate alınır. Bu derecelendirme kuruluşlarından herhangi birisinin derecelendirme sözleşmesi herhangi
+bir nedenle sona erdiğinde veya derecelendirme kuruluşunun SPK tarafından “Derecelendirme Kuruluşları
+Listesi”nden çıkarılması halinde diğer derecelendirme kuruluşu tarafından verilen not dikkate alınır.
+d) Asgari derecelendirme notu şartını sağlayan şirketlerin payları, derecelendirme notunun KAP’ta yayımlandığı
+günü takip eden işlem gününde endekse alınır. (KAP’ta yarım günlerde saat 12:00, diğer günlerde saat
+16:30’dan sonra yayımlanan bildirimler bir sonraki iş günü yayımlanmış kabul edilir.)
+Ağustos 2025 16 Endeks Direktörlüğü
+===== PAGE 18 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+6.6. BIST Sürdürülebilirlik Endeksi
+a) LSEG’nin sürdürülebilirlik değerleme metodolojisi, çevresel, sosyal ve kurumsal yönetim olmak üzere 3 ana
+başlık ve bu ana başlıkların altında toplam 10 kategoriden oluşmaktadır. Her bir kategori de altlarında bulunan
+farklı temalar ve veri noktaları ile ele alınmaktadır. Daha detaylı bilgilere https://www.lseg.com/en/data-
+analytics/sustainable-finance/esg-scores#methodology adresinden ulaşılabilir.
+b) Şirketlerin paylarının BIST Sürdürülebilirlik Endeksi kapsamına alınabilmesi için Değerleme Günü itibarıyla;
+i) Sürdürülebilirlik Notunun 50 veya üzerinde,
+ii) Her bir ana başlık notunun 40 veya üzerinde,
+iii) Kategori notlarından en az 8’inin 26 veya üzerinde
+olması gerekmektedir. Değerlemelerde, Endeks Döneminin ait olduğu takvim yılından önceki iki takvim yılına
+ait veri ve notlar dikkate alınır. Söz konusu iki takvim yılından en az birinde yukarıdaki kriterlerin sağlanıyor
+olması şirket paylarının endekse dahil edilmesi için yeterlidir.
+c) BIST Sürdürülebilirlik Endeksinde yer alan şirketlerden, 6.6.b maddesinde belirtilen kriterleri sağlayamayan
+şirket, kriterleri sağlayamadığı ilk Değerleme Döneminde Endeksten çıkarılmaz, bir Endeks Dönemi boyunca
+kriterleri tekrar sağlaması için süre tanınır. Üst üste iki Değerleme Döneminde belirtilen kriterleri
+sağlayamayan şirketin payları takip eden Endeks Dönemi başından itibaren geçerli olmak üzere BIST
+Sürdürülebilirlik Endeksinden çıkarılır.
+6.7. BIST Sürdürülebilirlik 25 Endeksi
+a) BIST Sürdürülebilirlik 25 Endeksi Seçim Havuzunda, Değerleme Günü itibarıyla
+i) Sürdürülebilirlik Notu 70 veya üzerinde,
+ii) Her bir ana başlık notu 60 veya üzerinde,
+iii) Kategori notlarından en az 8’i 50 veya üzerinde
+olan şirketlerin payları yer alır. Değerlemelerde, Endeks Döneminin ait olduğu takvim yılından önceki iki
+takvim yılına ait veri ve notlar dikkate alınır. Söz konusu iki takvim yılından en az birinde yukarıdaki kriterlerin
+sağlanıyor olması şirket paylarının endeksin Seçim Havuzunda yer alması için yeterlidir.
+b) BIST Sürdürülebilirlik 25 Endeksinde yer alan şirketlerden, 6.7.a maddesinde belirtilen kriterleri sağlayamayan
+şirket, kriterleri sağlayamadığı ilk Değerleme Döneminde havuzdan çıkarılmaz, bir Endeks Dönemi boyunca
+kriterleri tekrar sağlaması için süre tanınır. Üst üste iki Değerleme Döneminde belirtilen kriterleri
+sağlayamayan şirketin payları BIST Sürdürülebilirlik 25 Endeksi Seçim Havuzundan çıkarılır.
+c) BIST Sürdürülebilirlik 25 Endeksi, a ve b maddelerine göre oluşturulacak Seçim Havuzundan, madde 7.1’e göre
+sıralama ve madde 7.2’ye göre seçim yapılarak belirlenir.
+d) Yukarıdaki a ve b maddelerine göre kriterleri sağlayan yeterli sayıda (endeks kapsamında 25 ve yedek olarak
+3 olmak üzere toplam 28) pay yoksa, kriterleri sağlayanların tümü endekse ve/veya yedek listeye alınır. Eksik
+kalan kısım, 6.7.a maddesindeki notların her biri 5’er puan düşürülerek bulunacak şirketler arasından madde
+7.1’e göre sıralama ve madde 7.2’ye göre seçim yapılarak tamamlanır.
+6.8. BIST Katılım Tüm Endeksi
+BIST Katılım Tüm Endeksinde yer alacak paylar aşağıdaki şekilde belirlenir:
+a) BIST Katılım Tüm Endeksine, payları ilgili Endeks Dönemi’nde Yıldız Pazar, Ana Pazar veya Alt Pazar’da yer
+alacak şirketlerden Standart ve Rehber’e uygun faaliyetlerde bulunanlar dahil edilir. Şirketlerin KAP’ta ilan
+ettikleri KAFİF Formunda vermiş oldukları yanıtlar çerçevesinde endeks kapsamında yer alacak paylar,
+Standart ve Rehber göz önünde bulundurularak KAFİF Komitesi tarafından belirlenir.
+Ağustos 2025 17 Endeks Direktörlüğü
+===== PAGE 19 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+b) Değerleme Günü itibarıyla KAFİF Formuna giriş yapmamış veya eksik yapmış olan şirketler ile ilgili mali
+tablosunu KAP’ta ilan etmeyen şirketlerin muhafazakâr yaklaşım benimsenerek endeks kriterlerini sağlamadığı
+varsayılır. Söz konusu şirketler endeks kapsamında yer alıyorsa yeni Endeks Döneminden geçerli olmak üzere
+endeks kapsamından çıkarılır.
+c) KAP’ta ilan edilen KAFİF Formunda, başka halka açık kaynaklarla çelişen veriler tespit edilmesi durumunda
+konu KAFİF Komitesince karara bağlanır. KAFİF Komitesi karar verirken, KAFİF Formunda yer alan bilgiler yerine
+halka açık başka bir kaynakta yer alan bilgileri dikkate alabilir.
+d) Endeks Dönemi içinde yeni işlem görmeye başlayan şirket payları, halka arz izahnamesinin Borsa Görüşü
+kısmında kriterleri sağladığına ilişkin açıklama bulunması halinde işlem görmeye başladıkları tarihte endekse
+dahil edilir.
+e) Paylarının endeks kapsamına alınabilmesi için şirketin, Standart ve Rehber’de yer alan ana sözleşme ve
+faaliyetlere ilişkin ilkelere uyuyor olması ve Değerleme Günü itibarıyla ilgili mali tablo dönemi için;
+i) Rehber madde 3.2’de belirtilen faaliyetlerden elde edilen gelirlerin toplam gelirlere oranının %5,
+ii) Faizli varlıkların toplam varlıklara oranının %33,
+iii) Faizli borçların toplam varlıklara oranının %33
+olarak alınan eşik değerleri aşmaması gerekmektedir. Şirket konsolide mali tablo hazırlıyorsa, söz konusu
+oranların hesaplamalarında konsolide tutarlar kullanılır.
+f) Endeks kapsamında yer alan bir şirket, söz konusu oranlardan herhangi birinde eşik değerin %10 fazlasını
+aşmaması şartıyla bir sonraki dönemsel değerlemeye kadar endekste kalmaya devam eder. Üst üste iki
+dönemsel değerlemede de oranlardan herhangi birinde eşik değerin aşılması durumunda söz konusu şirket
+payları endeksten çıkarılır.
+6.9. BIST Katılım 30, Katılım 50 ve BIST Katılım 100 Endeksleri
+a) BIST Katılım 30, BIST Katılım 50 ve BIST Katılım 100 Endeksleri Seçim Havuzunda, ilgili Endeks Dönemi’nde BIST
+Katılım Tüm Endeksinde yer alacak şirketlerin paylardan Değerleme Günü itibarıyla Borsa İstanbul’da en az 20
+gün süreyle işlem görmüş olanlar yer alır. Madde 8.7 uyarınca endekslere dahil edilen paylar için 20 gün
+süreyle işlem görme şartı aranmaz.
+b) BIST Katılım 30, BIST Katılım 50 ve BIST Katılım 100 Endekslerinde yer alacak paylar, 6.8.a maddesine göre
+oluşturulacak Seçim Havuzundan, madde 7.1’e göre sıralama ve madde 7.2’ye göre seçim yapılarak belirlenir.
+6.10. BIST Katılım Sürdürülebilirlik Endeksi
+Hem BIST Katılım Tüm hem de BIST Sürdürülebilirlik endekslerinde yer alan şirketlerin paylarından oluşur.
+6.11. BIST Şehir Endeksleri
+a) Üretim faaliyetinde bulunan şirketlerin üretimlerinin en az %50’sinin gerçekleştiği şehir, hizmet şirketlerinin
+faaliyet gelirlerinin en az %50’sinin elde edildiği şehir, üretimin/faaliyet gelirinin en az %50’sinin
+gerçekleştiği/elde edildiği bir şehir bulunmuyorsa şirket merkezinin bulunduğu şehir dikkate alınır.
+b) Toptan ticaret, haberleşme ve inşaat sektöründe faaliyet gösteren şirketler ile holdingler için şirket merkezinin
+bulunduğu şehir dikkate alınır.
+c) Holdingler hariç mali sektörde yer alan şirketler ile perakende ticaret sektöründe faaliyet gösteren şirketler
+kapsam dışındadır.
+d) Şirket paylarının endeks kapsamına alınabilmesi için, öncelikle şirketin faaliyet konusunun şehir endekslerinin
+kapsamına giriyor olması, aynı zamanda da kapsamına girdiği şehir için bir endeks
+hesaplanıyor/hesaplanabiliyor olması gerekir.
+Ağustos 2025 18 Endeks Direktörlüğü
+===== PAGE 20 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+6.12. BIST Temettü Endeksi
+a) BIST Temettü Endeksinde yer alacak paylar, ilgili Endeks Dönemi’nde Yıldız Pazar, Ana Pazar ve Alt Pazar’da
+yer alacak şirket payları arasından seçilir.
+b) Şubat-Nisan Endeks Dönemi için yapılan yıllık dönemsel çalışmada:
+i) Değerleme Günü itibarıyla, şirketlerin son 3 mali yılına ilişkin olarak SPK Mevzuatına göre hazırlanan yıllık
+finansal tablolarında Net Karı bulunan şirketlerden, bu yılları takip eden mali yıl içinde ortaklara ödenen
+brüt nakit temettü tutarından, aynı mali yıl içinde ortaklara rüçhan hakkı kullandırılarak yapılan bedelli
+sermaye artırım tutarının (sermaye artırım tutarı ile rüçhan hakkı kullandırma fiyatının çarpılmasıyla
+bulunan toplam tutar) çıkarılması suretiyle hesaplanan ortaklara dağıtılan temettü tutarı pozitif olan
+şirketler endekse dahil edilir.
+ii) Değerleme Günü itibarıyla KAP’ta yayımlanmış olan en son finansal tablosundan geriye doğru 12 aylık
+dönemde zararı olan şirketler endekste yer almaz.
+c) Mayıs-Temmuz, Ağustos-Ekim ve Kasım-Ocak Endeks Dönemleri için yapılan ara dönemsel çalışmalarda,
+i) Değerleme Günü itibarıyla, şirketlerin son 3 mali yılına ilişkin olarak SPK Mevzuatına göre hazırlanan yıllık
+finansal tablolarında Net Karı bulunan şirketlerden, bu yılları takip eden mali yıl içinde ortaklara ödenen
+brüt nakit temettü tutarından, aynı mali yıl içinde ortaklara rüçhan hakkı kullandırılarak yapılan bedelli
+sermaye artırım tutarının (sermaye artırım tutarı ile rüçhan hakkı kullandırma fiyatının çarpılmasıyla
+bulunan toplam tutar) çıkarılması suretiyle hesaplanan ortaklara dağıtılan temettü tutarı pozitif olan
+şirketler endekse dahil edilir. Bu madde, Değerleme Günü itibarıyla Olağan Genel Kurul toplantısını yapmış
+ve karın dağıtımına ilişkin kararını (dağıtma veya dağıtmama yönünde olabilir) almış olan şirketlerde söz
+konusu “son 3 mali yıl” kriteri ileriye doğru bir dönem kaymış olarak uygulanır.
+ii) Değerleme Günü itibarıyla nakit temettü dağıtımına ilişkin Genel Kurul kararları ve ortaklara rüçhan hakkı
+kullandırılarak yapılan bedelli sermaye artırımına ilişkin Yönetim Kurulu kararları dikkate alınır. Nakit
+temettülerin fiilen ödenmiş olması veya rüçhan haklarının kullandırılmasına başlanmış olması gerekmez.
+iii) Yıl içinde, önceki yılın veya içinde bulunulan yılın karından temettü avansı dağıtılmasına ilişkin Yönetim
+Kurulu kararları dikkate alınır, fiilen ödenmiş olması gerekmez.
+d) Mali dönemini değiştiren şirketlerde ortaya çıkan 6 ay veya daha kısa süreli kıst hesap dönemleri, söz konusu
+“son 3 mali yıl” kriteri açısından “mali yıl” olarak dikkate alınmayabilir.
+e) Değerlemelerde sadece KAP’ta ilan edilen veriler dikkate alınır. Türk Lirasından farklı bir para birimi cinsinden
+gerçekleştirilen sermaye artırımı ve/veya temettü ödemeleri, ilgili işlemin başlangıç tarihinden bir önceki iş
+gününe ait döviz kuru kullanılarak Türk Lirasına çevrilir.
+6.13. BIST Temettü 25 Endeksi
+a) BIST Temettü 25 Endeksi Seçim Havuzunda, ilgili Endeks Dönemi’nde BIST Temettü Endeksinde olacak
+paylardan Değerleme Günü itibarıyla Temettü Verimine göre ilk 2/3’lük dilimde (sıralama büyükten küçüğe
+doğru yapılır) olanlar yer alır. Temettü Verimi madde 2.20’ye göre hesaplanır. Hesaplama yapılırken Mayıs-
+Temmuz, Ağustos-Ekim ve Kasım-Ocak Endeks Dönemleri için yapılan ara dönemsel çalışmalarda Şirketin
+içinde bulunulan mali dönemde ödediği toplam brüt nakit temettü tutarı;
+i) Şirket Genel Kurulunu henüz yapmadıysa; önceki yıl dağıtılan temettü tutarı veya varsa Şirket Yönetim
+Kurulu’nca yıl içinde dağıtılmasına karar verilen temettü avansları toplam tutarından büyük olanı,
+ii) Şirket Genel Kurulunu yaptıysa, Genel Kurulda kararlaştırılan toplam nakit temettü tutarı ve varsa Şirket
+Yönetim Kurulu’nca yıl içinde dağıtılmasına karar verilen temettü avansları tutarının toplamı
+olarak alınır.
+b) BIST Temettü 25 Endeksi, 6.12.a maddesine göre oluşturulacak Seçim Havuzundan, madde 7.1’e göre sıralama
+ve madde 7.2’ye göre seçim yapılarak belirlenir.
+Ağustos 2025 19 Endeks Direktörlüğü
+===== PAGE 21 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+c) 6.12.a maddesine göre yeterli sayıda (endeks kapsamında 25 ve yedek olarak 3 olmak üzere toplam 28) pay
+yoksa, sıralamaya giremeyen paylar temettü verimlerine göre büyükten küçüğe doğru sıralanır. Sıralamada en
+üst sırada yer alan paydan başlanarak, birden fazla grup payı ayrı sıralarda işlem gören şirketlerin, sadece bir
+grup payı dahil edilecek şekilde, önce 25 pay endekse, ardından 3 pay da yedek olarak seçilir.
+6.14. BIST Katılım Temettü Endeksi
+Hem BIST Katılım Tüm hem de BIST Temettü endekslerinde yer alan şirketlerin paylarından oluşur.
+6.15. BIST Halka Arz Endeksi
+a) Halka arz edilerek, Yıldız Pazar, Ana Pazar ve Alt Pazar’da işlem görmeye başlayan şirketlerin payları, işlem
+görmeye başladığı ilk gün BIST Halka Arz Endeksi kapsamına alınır ve 2 yıl endeks kapsamında kalır.
+b) 2 yıllık sürenin dolması nedeniyle endeks kapsamında yer alan şirket sayısının 5’in altına inmesi durumunda,
+süresi dolan şirket, endeks kapsamına yeni bir şirket alınıncaya kadar kapsamda kalmaya devam eder. Bu
+istisnaya göre endeks kapsamında kalmaya devam eden şirketler, endeks kapsamına yeni bir şirket alındığında
+bekleme süreleri dikkate alınarak sırayla endeksten çıkarılır.
+c) Endeks kapsamından madde 8.1’de belirtilen sebeplerle çıkarılan payların, bu sebeplerin ortadan kalkmasıyla
+yeniden endeks kapsamına alınması halinde, 2 yıllık sürenin hesabında pazarının kapalı kaldığı günler ile Yakın
+İzleme Pazarı’nda işlem gördüğü günler de dikkate alınır.
+d) Madde 8.1’de belirtilen sebeplerle endeks kapsamındaki şirket sayısının 5’in altına inmesi durumunda
+Sınırlama Oranı, kalan payların ağırlıkları eşit olacak şekilde belirlenir. Şirket sayısının 4’ün altına inmesi
+durumunda ise Ağırlık Eşiği uygulanmaz.
+6.16. BIST KOBİ Sanayi Endeksi
+BIST KOBİ Sanayi Endeksinde yer alacak paylar, ilgili Endeks Dönemi’nde Yıldız Pazar, Ana Pazar ve Alt Pazar’da yer
+alacak şirket payları arasından seçilir. Söz konusu şirketlerden KAP’ta yayımlanmış en son yıllık finansal tablolarına
+göre, “Küçük ve Orta Büyüklükteki İşletmeler Yönetmeliği”nde belirlenen yıllık net satış hasılatı veya mali bilanço
+büyüklüğü şartlarından herhangi birisini taşıyan sanayi şirketlerinin payları endekse dahil edilir.
+Payları BIST KOBİ Sanayi Endeksinde yer almayan bir şirketin, faaliyetlerinde “geçici” olarak değerlendirilen
+işlemler meydana gelmişse, söz konusu dönem sona erene kadar şirket payları BIST KOBİ Sanayi Endeksi
+kapsamına dahil edilmez.
+Mali dönemini değiştiren şirketlerin ilan ettikleri kıst hesap dönemine ait finansal tablolarındaki satış hasılatı,
+endeks değerlemelerinde oransal olarak 12 ayı temsil edecek şekilde yeniden hesaplanarak dikkate alınır.
+6.17. BIST Geri Alım Endeksi
+BIST Geri Alım Endeksi kapsamında, ilan ettiği Geri Alım Verilerinden,
+a) Tebliğ ve İlke Kararına uygun olarak devam eden bir geri alım programı olduğu,
+b) Son üç yılda, Geri Alım Programları kapsamında, sermayesinin en az %0,1’ini temsil eden sayıda payı geri aldığı,
+c) Değerleme Gününden geriye doğru son 12 ayda fiilen pay geri alımı gerçekleştirdiği
+tespit edilen şirketlerin payları yer alır. Birden fazla pay grubu işlem gören şirketlerin geri alım programına dahil
+ettikleri gruplar Endekste yer alabilir.
+7. ENDEKSLERDE YER ALACAK PAYLAR İÇİN SIRALAMA VE SEÇİM YÖNTEMİ
+Dönemsel Değişikliklerde, BIST 30, BIST 50, BIST 100, BIST Katılım 30, BIST Katılım 50, BIST Katılım 100, BIST
+Temettü 25 ve BIST Sürdürülebilirlik 25 endekslerinde yer alacak paylar için sıralama ve seçim aşağıdaki yöntemle
+yapılır.
+7.1. 6. maddeye göre ilgili endeks için oluşturulan Seçim Havuzunda yer alan paylar aşağıdaki
+şekilde sıralamaya tabi tutulur:
+Ağustos 2025 20 Endeks Direktörlüğü
+===== PAGE 22 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+a) Paylar, Ortalama FDP PD’lerine göre büyükten küçüğe doğru sıralanır.
+b) Paylar, Değerleme Dönemindeki Günlük Ortalama İşlem Hacimlerine göre büyükten küçüğe doğru sıralanır.
+c) Nihai sıralama aşağıda açıklandığı şekilde yapılır:
+Her iki listede; birinci sırada yer alan pay varsa nihai listede ilk sıraya konur. Her iki listede; birinci sırada yer alan
+pay yoksa, ilk iki sıra içinde yer alan pay olup olmadığına bakılır. Nihai listede ilk sırada yer alacak pay belirleninceye
+kadar bu işlemler tekrarlanır. Nihai listede ilk sıraya konulacak payın belirlenmesinden sonra yukarıdaki işlem takip
+eden sıralar için tekrar edilir. Her iki listede ilk n sıra içinde olma şartını sağlayan iki payın bulunması halinde
+Ortalama FDP PD’si büyük olan nihai listede daha üst sıraya konur.
+7.2. 7.1 maddesine göre sıralanmış payların endekslere seçimi aşağıdaki gibi yapılır:
+Yapılan nihai sıralamada;
+a) Aşağıdaki tabloda belirtilen üst sıraya veya daha yukarıya çıkan ve endekste olmayan paylar endeks kapsamına
+alınır.
+b) Aşağıdaki tabloda belirtilen alt sıradan daha aşağıya inen ve endekste olan paylar endeks kapsamından
+çıkarılır.
+c) Belirlenmiş üst sıraya veya daha yukarıya çıkan pay sayısının, belirlenmiş alt sıradan daha aşağıya inen pay
+sayısından fazla olması halinde, belirlenmiş alt sıradaki paydan başlanarak giren-çıkan pay sayısının eşitliği
+sağlanıncaya kadar daha üst sıralarda yer alan gerekli sayıda pay endeks kapsamından çıkarılır.
+d) Belirlenmiş alt sıradan daha aşağıya inen pay sayısının, belirlenmiş üst sıraya veya daha yukarıya çıkan pay
+sayısından fazla olması halinde, belirlenmiş üst sıranın bir altındaki sırada yer alan paydan başlanarak giren-
+çıkan pay sayısının eşitliği sağlanıncaya kadar daha alt sıralarda yer alan gerekli sayıda pay endeks kapsamına
+alınır.
+e) Birden fazla grup payı ayrı sıralarda işlem gören şirketlerin, sadece Nihai Sıralamada en üstte yer alan payı
+endekse dahil edilir.
+f) Endekslerin kapsamında Endeks Dönemi içinde olabilecek değişikliklerde kullanılmak üzere aşağıdaki tabloda
+gösterilen sayıda pay yedek olarak seçilir ve dönemsel değişikliklerle birlikte ilan edilir.
+Endeks Üst Sıra Alt Sıra Yedek
+BIST 30
+25 35 3
+BIST Katılım 30
+BIST 50
+45 55 3
+BIST Katılım 50
+BIST 100
+90 110 3
+BIST Katılım 100
+BIST 500 - - 3
+BIST Temettü 25
+20 30 3
+BIST Sürdürülebilirlik 25
+8. ENDEKSLERİN KAPSAMINDAKİ PAYLARDA DÖNEMSEL OLMAYAN DEĞİŞİKLİKLER
+KAP’ta yapılan bildirimlere bağlı olarak endeks kapsamında değişiklik yapılması gereken durumlarda, ilgili
+bildirimin gerçekleşme tarihinden bir önceki iş günü en geç saat 16:30’a kadar (yarım gün ise en geç saat 12:00’a
+kadar) KAP’ta yayımlanmış olması gerekir. Aksi takdirde bildirim takip eden iş günü yayımlanmış kabul edilir ve
+ilgili değişiklik, bildirimin KAP’ta yayımlandığı günü takip eden ikinci işlem günü geçerli olacak şekilde yapılır.
+8.1. Pazarları kesin olarak kapatılan paylar, ilave halka arz nedeniyle kapatılanlar hariç pazarları kesintisiz 5
+işlem gününden fazla süre için kapatılan paylar ile bulunduğu pazardan Yakın İzleme Pazarı’na alınan paylar,
+kapatma veya geçiş işleminin gerçekleştiği gün geçerli olacak şekilde kapsamında oldukları tüm endekslerden
+Ağustos 2025 21 Endeks Direktörlüğü
+===== PAGE 23 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+çıkarılır. BIST 30, BIST 50, BIST 100, BIST 500, BIST Banka Dışı Likit 10, BIST Katılım 30, BIST Katılım 50, BIST
+Katılım 100, BIST Temettü 25 ve/veya BIST Sürdürülebilirlik 25 endekslerinden çıkarılan payların yerlerine yedek
+paylar alınır.
+8.2. Bulunduğu pazardan Yakın İzleme Pazarı hariç başka bir pazara alınan paylar, geçiş işleminin
+gerçekleştiği gün geçerli olacak şekilde eski pazarına ait endeksten çıkarılarak yeni alındığı pazara ait endekse
+dahil edilir.
+8.3. Pazarları geçici olarak kapatılan paylar tekrar işlem görmeye başladığı gün, endeks kompozisyonuna
+uygun olmayan bir pazara alınan paylar tekrar endeks kompozisyonuna uygun pazara alındığı gün geçerli olacak
+şekilde, endeksin diğer koşullarını da sağlamak ve dönemsel değerlemeye tabi endekslerde aynı Endeks
+Dönemi içinde olmak koşullarıyla, BIST 30, BIST 50, BIST 100, BIST 500, BIST Banka Dışı Likit 10, BIST Katılım 30,
+BIST Katılım 50, BIST Katılım 100, BIST Temettü 25 ve BIST Sürdürülebilirlik 25 endeksleri hariç, ilgili diğer
+endekslere yeniden alınır.
+8.4. İlk defa işlem görmeye başlayan paylar, BIST 30, BIST 50, BIST 100, BIST 500, BIST Likit Banka, BIST
+Banka Dışı Likit 10, BIST Katılım 30, BIST Katılım 50, BIST Katılım 100, BIST Katılım Sürdürülebilirlik, BIST Temettü,
+BIST Temettü 25, BIST KOBİ Sanayi, BIST Katılım Temettü, BIST Sürdürülebilirlik, BIST Sürdürülebilirlik 25 ve BIST
+Geri Alım endeksleri dışında, kapsamına girdiği diğer tüm endekslere işlem görmeye başladığı gün geçerli
+olacak şekilde dahil edilir.
+8.5. Bir şirketin veya bankanın paylarının halka arz edilen kısmının piyasa değeri, halka arzın bitiş tarihi
+itibarıyla; fiili dolaşımda bulunan kısımlarının piyasa değerine göre büyükten küçüğe sıralanmış BIST 30 Endeksi
+paylarının yirmincisinden daha büyükse, işlem gördüğü 5. işlem günü geçerli olacak şekilde, BIST 30, BIST 50,
+BIST 100 ve BIST 500 endeksleri kapsamındaki fiili dolaşımda bulunan kısmının piyasa değeri en küçük olan
+payların yerine ilgili endekslere alınır. Bu koşulu sağlamadan Yıldız Pazar’da işlem görmeye başlayan paylar,
+Endeks Dönemi içinde BIST 30, BIST 50, BIST 100 VE BIST 500 endekslerine alınmaz.
+8.6. Payları madde 8.5 uyarınca BIST 30 Endeksine alınacağı ilan edilen şirketin halka arzın bitiş tarihi
+itibarıyla, madde 6.7’da açıklanan kriterleri sağlaması halinde, işlem gördüğü 5. işlem günü geçerli olacak
+şekilde payları BIST Katılım 30, BIST Katılım 50 ve Katılım 100 endeksleri kapsamına alınır. BIST Katılım 30, BIST
+Katılım 50 ve BIST Katılım 100 endeksleri için kapsamlarındaki fiili dolaşımda bulunan kısmının piyasa değeri en
+küçük olan paylar söz konusu endekslerden çıkarılır.
+8.7. Sektör değişikliğine neden olacak şekilde faaliyet konusu değişen şirketler, yeni faaliyetlerinin fiilen
+başladığına ilişkin bildirimin KAP’ta yayımlandığı haftayı izleyen haftanın ilk işlem günü geçerli olacak şekilde
+eski sektör endekslerinden çıkarılarak yeni sektör endekslerine alınır. BIST KOBİ Sanayi Endeksindeki bir şirket,
+sanayi üst sektör grubundan başka bir üst sektör grubuna geçiyorsa söz konusu bildirimin KAP’ta yayımlandığı
+haftayı izleyen haftanın ilk işlem günü geçerli olacak şekilde BIST KOBİ Sanayi Endeksinden çıkarılır. BIST Katılım
+Tüm Endeksindeki bir şirketin ana sözleşmesinde değişikliğe yol açacak şekildeki faaliyet konusu
+değişikliklerinde şirketin KAFİF Formuna girdiği verilere göre madde 6.7’daki şartları sağlamamasına neden
+olacak şekilde bir faaliyet konusu değişikliği söz konusuysa veya Şirket sektör değişikliğinin geçerli olacağı güne
+kadar güncel KAFİF Formunu KAP’ta yayımlamamışsa faaliyetlerinin fiilen başladığına ilişkin bildirimin KAP’ta
+yayımlandığı haftayı izleyen haftanın ilk işlem günü geçerli olacak şekilde BIST Katılım 30, BIST Katılım 50, BIST
+Katılım 100 ve BIST Katılım Tüm endekslerinden çıkarılır. BIST Katılım 30, BIST Katılım 50 ve BIST Katılım 100
+endekslerinde çıkarılan payın yerine yedek pay alınır.
+8.8. BIST Şehir Endeksi kapsamında yer alan şirketin üretim/faaliyet/idare merkezinin değişmesi, faaliyet
+konusu bakımından endeks kapsamı dışına çıkması durumlarında şirketin payları, değişikliğin fiilen
+gerçekleştiğine ilişkin bildirimin KAP’ta yayımlandığı haftayı izleyen haftanın ilk işlem günü geçerli olacak şekilde
+endeks kapsamından çıkarılır, yeni üretim/faaliyet/idare merkezine ait endeks kapsamına alınır.
+8.9. BIST Şehir Endeksi kapsamında yer almayan şirketin faaliyet konusu değişikliği nedeniyle yeni faaliyet
+konusu BIST Şehir endeksleri kapsamına girerse şirketin payları, yeni faaliyetlerinin fiilen başladığına ilişkin
+Ağustos 2025 22 Endeks Direktörlüğü
+===== PAGE 24 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+bildirimin KAP’ta yayımlandığı haftayı izleyen haftanın ilk işlem günü geçerli olacak şekilde endeks kapsamına
+alınır.
+8.10. BIST Kurumsal Yönetim Endeksi kapsamındaki paylar,
+a) KAP’ta yayımlanan yeni derecelendirme notunun asgari derecelendirme notundan düşük olması,
+b) Derecelendirme sözleşmesinin herhangi bir nedenle sona erdiğinin KAP’ta yayımlanması,
+c) Derecelendirme kuruluşunun Sermaye Piyasası Kurulu’nun “Derecelendirme Kuruluşları Listesi”nden
+çıkarıldığının KAP’ta yayımlanması,
+d) Derecelendirme kuruluşunun bağımsızlığının ortadan kalktığının KAP’ta yayımlanması,
+durumlarında ilgili bildirimin KAP’ta yayımlandığı günü,
+e) Derecelendirme notunun, verildiği tarihten sonraki 1 yıllık dönem sonuna kadar yenilendiğine ilişkin bildirimin
+KAP’ta yayımlanmaması,
+f) Derecelendirme sözleşmesinin yenilendiğine ilişkin bildirimin, söz konusu sözleşmenin süresinin bitiş tarihine
+kadar KAP’ta yayımlanmaması,
+durumlarında 1 yıllık dönemin bittiği günü veya derecelendirme sözleşmesinin sona erme tarihini takip eden işlem
+günü geçerli olacak şekilde endeks kapsamından çıkarılır. Söz konusu nedenlerin ortadan kalkmasıyla birlikte
+KAP’ta yayımlanan yeni derecelendirme notu asgari derecelendirme notundan yüksekse, yeni notun KAP’ta
+yayımlandığı günü takip eden işlem günü geçerli olacak şekilde söz konusu paylar endeks kapsamına alınır.
+g) Bir şirketin Kurumsal Yönetim Endeksi kapsamında olabilmesi için geçerli bir sözleşmesinin ve bu sözleşmeye
+bağlı geçerli bir notunun olması şarttır. Ancak notun geçerliliği devam ederken bağlı olduğu sözleşmenin sona
+ermesi halinde, şirketin KAP’ta yapacağı duyuru üzerine, var olan notun geçerlilik süresini aşmayacak şekilde
+ve sözleşmenin sona erdiği tarihten başlamak üzere üç aya kadar süre verilir. Söz konusu sürenin verilebilmesi
+için, şirketin en geç sözleşmenin sona erdiği tarihte KAP’ta yapacağı duyuruda, geçerli bir sözleşme
+kapsamında alacağı notu KAP’ta ilan edeceği en geç tarihi (Notun geçerlilik süresi veya üç aylık süreden önce
+biteni aşmayacak şekilde) belirtmesi gerekir. Bu sürenin sonunda, geçerli bir sözleşme kapsamında alacağı
+notu KAP’ta duyurmayan şirketin payları takip eden işlem günü geçerli olacak şekilde endeks kapsamından
+çıkarılır.
+8.11. Payları BIST 30, BIST 50, BIST 100, BIST 500, BIST Banka Dışı Likit 10, BIST Katılım 30, BIST Katılım 50,
+BIST Katılım 100, BIST Temettü 25 ve/veya BIST Sürdürülebilirlik 25 endeksleri kapsamında olan iki veya daha
+fazla şirketin birleşmesi veya devri sonucunda ortaya çıkan şirketin payları, endeks kapsamı içinde kalır. Eksilen
+şirket/şirketler, birleşme veya devre ilişkin payların dağıtılmasına başlandığı gün geçerli olacak şekilde
+yedeklerden tamamlanır.
+8.12. Payları BIST 30, BIST 50, BIST 100, BIST 500 ve/veya BIST Banka Dışı Likit 10 endeksleri kapsamında
+olan bir şirket, kapsamda olmayan bir şirketi devir alır veya kapsamda olmayan bir şirkete devir olursa ortaya
+çıkan yeni şirketin yer alacağı pazara bakılır. Ortaya çıkan yeni şirket endeks kompozisyona uygun pazarda işlem
+görmeye devam ederse, endeks kapsamında kalır; endeks kompozisyonuna uygun pazarda yer almazsa,
+devrolan şirket ortaklarına payların dağıtılmasına başlandığı gün geçerli olacak şekilde endekslerden çıkarılarak
+yerine yedek paylar alınır.
+8.13. Payları BIST Kurumsal Yönetim veya BIST Likit Banka endeksleri kapsamında olan bir şirket başka bir
+şirketi veya şirketleri devir alırsa endeks kapsamında kalmaya devam eder.
+8.14. Payları BIST Kurumsal Yönetim veya BIST Likit Banka endeksleri kapsamında olan bir şirket, kapsamda
+olmayan bir şirket tarafından devir alınırsa, devrolan şirket ortaklarına payların dağıtılmasına başlandığı gün
+geçerli olacak şekilde endeksten çıkarılır.
+8.15. Payları Şehir Endeksi kapsamında olan şirketlerin birleşme ve devralmalarında, birleşme sonrası oluşan
+yeni şirket veya devralan şirketin durumu yeniden değerlendirilir.
+Ağustos 2025 23 Endeks Direktörlüğü
+===== PAGE 25 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+8.16. Payları BIST 30, BIST 50, BIST 100, BIST 500, BIST Likit Banka, BIST Banka Dışı Likit 10, BIST Temettü 25
+ve/veya BIST Sürdürülebilirlik 25 endeksleri kapsamında olan bir şirket iki veya daha fazla şirkete bölünüyorsa,
+ortaya çıkan şirketlerden, fiili dolaşımda bulunan kısmının piyasa değeri en büyük olan şirket endeks dönemi
+sonuna kadar endeks kapsamında kalır.
+8.17. BIST Temettü ve/veya BIST Temettü 25 Endeksi kapsamında olan bir şirket, kapsamda olmayan bir
+şirketi devir alır veya kapsamda olmayan bir şirkete devir olursa ortaya çıkan yeni şirket endeks kapsamında
+kalır.
+8.18. BIST Halka Arz Endeksi kapsamında olan bir şirket, işlem görmeye başladığı tarihi takip eden 25. ayın
+ilk işlem günü geçerli olacak şekilde endeksten çıkarılır.
+8.19. Payları BIST Halka Arz Endeksi kapsamında olan bir şirket başka bir şirketi veya şirketleri devir alırsa
+endeks kapsamında kalmaya devam eder.
+8.20. Payları BIST Halka Arz Endeksi kapsamında olan bir şirket, kapsamda olmayan bir şirket tarafından devir
+alınırsa, devrolan şirket ortaklarına payların dağıtılmasına başlandığı gün geçerli olacak şekilde endeksten
+çıkarılır.
+8.21. Payları BIST KOBİ Sanayi Endeksi kapsamında olan şirketlerin birleşme ve devralmalarında, birleşme
+sonrası oluşan yeni şirket veya devralan şirketin durumu yeniden değerlendirilir.
+8.22. Payları BIST Sürdürülebilirlik ve/veya BIST Sürdürülebilirlik 25 endeksleri kapsamında olan iki veya daha
+fazla şirketin birleşmesi veya devri sonucunda ortaya çıkan şirketin payları endeks kapsamı içinde kalır.
+8.23. Payları BIST Sürdürülebilirlik ve/veya BIST Sürdürülebilirlik 25 endeksleri kapsamında olan bir şirket
+başka bir şirketi veya şirketleri devir alırsa endeks kapsamında kalmaya devam eder.
+8.24. Payları BIST Sürdürülebilirlik ve/veya BIST Sürdürülebilirlik 25 endeksleri kapsamında olan bir şirket,
+kapsamda olmayan bir şirket tarafından devir alınırsa, devrolan şirket ortaklarına payların dağıtılmasına
+başlandığı gün geçerli olacak şekilde endeksten çıkarılır.
+8.25. Payları BIST Katılım 30, BIST Katılım 50, BIST Katılım 100 ve/veya BIST Katılım Tüm endeksleri
+kapsamında olan bir şirket kapsamda olmayan bir şirketi devir alır veya devir olursa ortaya çıkan yeni şirketin
+KAFİF Formuna tekrar giriş yapması sağlanır. Söz konusu verilere göre madde 6.7’daki şartları sağlaması ve
+endeks kompozisyonuna uygun bir pazarda işlem görmesi halinde şirket payları endekste kalır. Aksi takdirde
+devre ilişkin payların dağıtılmasına başlandığı gün geçerli olacak şekilde endekslerden çıkarılır. BIST Katılım 30,
+BIST Katılım 50 ve BIST Katılım 100 endekslerinde çıkarılan payın yerine yedek pay alınır.
+8.26. Payları BIST Katılım Tüm Endeksi kapsamında olan iki veya daha fazla şirketin birleşmesi veya devri
+sonucunda ortaya çıkan şirketin payları endeks kompozisyonuna uygun bir pazarda işlem görmesi halinde
+endeks kapsamı içinde kalır.
+8.27. Payları BIST Katılım 30, BIST Katılım 50, BIST Katılım 100 ve/veya BIST Katılım Tüm endeksleri
+kapsamında olan bir şirket iki veya daha fazla şirkete bölünüyorsa, ortaya çıkan şirketlerin KAFİF Formuna
+tekrar giriş yapmaları ve girilen verilere göre madde 6.7’daki şartları sağlamaları halinde endeks
+kompozisyonuna uygun bir pazarda işlem gören paylar BIST Katılım Tüm Endeksi kapsamında; BIST Katılım Tüm
+Endeksinde yer alacak paylardan fiili dolaşımdaki payların piyasa değeri en büyük olan pay ise endeks dönemi
+sonuna kadar BIST Katılım 30, BIST Katılım 50 ve BIST Katılım 100 endeksleri kapsamında kalır. Aksi takdirde
+bölünmeye ilişkin payların dağıtılmasına başlandığı gün geçerli olacak şekilde söz konusu endekslerden çıkarılır.
+BIST Katılım 30, BIST Katılım 50 ve BIST Katılım 100 endekslerinde çıkarılan payın yerine yedek pay alınır.
+8.28. Payları BIST Geri Alım Endeksi kapsamında olan bir şirket başka bir şirketi veya şirketleri devir alırsa
+endeks kapsamında kalmaya devam eder.
+8.29. Payları BIST Geri Alım Endeksi kapsamında olan bir şirket, kapsamda olmayan bir şirket tarafından devir
+alınırsa, devrolan şirket ortaklarına payların dağıtılmasına başlandığı gün geçerli olacak şekilde endeksten
+çıkarılır.
+Ağustos 2025 24 Endeks Direktörlüğü
+===== PAGE 26 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+9. HESAPLAMALARDA KULLANILAN VERİLER VE VERİ HİYERARŞİSİ
+9.1. Fiyatlar
+a) Endekslerin hesaplanmasında, payların BIST Pay Piyasasında gerçekleşen ve kayda alınan son işlem fiyatları
+kullanılır.
+b) Paylar için özsermaye halleri nedeniyle hesaplanan teorik/referans fiyatlar, pay işlem görene kadar
+kullanılmaya devam eder.
+c) Paylar endekslerin kapsamına, Borsa İstanbul tarafından ilan edilen baz/referans fiyatları ile dahil edilir.
+d) Payın işlem görmemesi halinde veya olağandışı piyasa koşullarının varlığı nedeniyle endekslerin kapsamında
+yer alan payların fiyatlarına erişilememesi halinde endeksler kullanılan en son fiyatlar ile hesaplanmaya devam
+eder.
+9.2. FDPO’lar
+a) Endekslerin hesaplanmasında, MKK tarafından ilan edilen ve madde 5.2.f gereğince gözden geçirilen FDPO’lar
+kullanılır.
+b) Paylar endekslerin kapsamına, Borsa İstanbul tarafından ilan edilen FDPO’ları ile dahil edilir.
+c) Veri eksikliği veya olağandışı piyasa koşullarının varlığı nedeniyle endekslerin kapsamında yer alan payların
+FDPO’larına erişilememesi halinde endeksler payların mevcut FDPO’ları ile hesaplanmaya devam eder.
+9.3. Pay Sayıları
+a) Endekslerin hesaplanmasında güncel Pay Sayıları kullanılır.
+b) Olağandışı piyasa koşullarının varlığı halinde özsermaye halleri gerçekleştirilemezse endeksler payların mevcut
+Pay Sayıları ile hesaplanmaya devam eder.
+9.4. Endekslerin Kapsamında Yer Alan Paylara İlişkin Listeler
+a) Endekslerin kapsamında yer alan paylara ilişkin listeler Borsa İstanbul tarafından bu Kural Seti çerçevesinde
+belirlenir, ilan edilir ve hesaplamalarda kullanılır.
+b) Veri eksikliği veya olağandışı piyasa koşullarının varlığı nedeniyle endekslerin kapsamında yer alacak payların
+belirlenememesi halinde, endeksler son liste ile hesaplanmaya devam eder.
+10. ENDEKSLERİN TAKİP VE YÖNETİMİ
+10.1. Endekslerin sürekliliğinin sağlanmasına yönelik işlemler Endeks Direktörlüğü tarafından yapılır.
+10.2. Borsa İstanbul, BIST Katılım Tüm Endeksine dahil olacak şirketlerin belirlenmesinde TKBB Danışma
+Kurulu (Danışma Kurulu) ile birlikte çalışır. Dönemsel değerleme çalışmasında şirketlerin KAFİF Formunda yer
+alan sorulara verdikleri yanıtlar esas alınır. KAFİF Formuna ilişkin olarak şirketlerin ilettikleri sorular Borsa
+İstanbul tarafından Danışma Kuruluna iletilir. Danışma Kurulunun yazılı yanıtlarına göre şirketler Değerleme
+Gününe kadar KAFİF Formunda güncelleme yapabilirler. Dönemsel Değerlemede şirketlerin Değerleme Günü
+itibarıyla KAFİF Formuna girdikleri en güncel veriler dikkate alınır. Kural Seti, Danışma Kurulunun genel kural
+şeklinde ifade edilebilen görüşleri çerçevesinde güncellenerek ilan edilir. Endekse girecek şirketlerin
+belirlenmesinde Kural Setinde düzenlenmemiş her konuda yapılacak uygulama Danışma Kurulunun yazılı
+görüşü alınarak Borsa İstanbul Genel Müdürlüğü tarafından belirlenir.
+10.3. Dönemsel değişiklikler kapsamında, endekslerde ve yedek listelerde yer alacak paylar periyodik olarak
+Endeks Direktörlüğü tarafından belirlenir ve Borsa İstanbul Genel Müdürlük onayına sunulur.
+10.4. Kural Seti kapsamında düzenlenmemiş her konuda yapılacak uygulama Borsa İstanbul Genel
+Müdürlüğü tarafından belirlenir ve duyurulur.
+Ağustos 2025 25 Endeks Direktörlüğü
+===== PAGE 27 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+11. ENDEKS DEĞERLERİNDE GERİYE DÖNÜK DÜZELTME
+11.1. Eş anlı hesaplanmış ve yayımlanmış endeks değerlerinde geriye dönük düzeltme yapılmaz.
+11.2. Gün sonunda hesaplanmış ve yayımlanmış endeks değerlerinde geriye dönük düzeltme ancak Borsa
+İstanbul Genel Müdürlük kararı ile yapılabilir.
+12. GÜNCELLEME SIKLIĞI
+Bu Kural Seti yılda en az 1 defa gözden geçirilir ve ihtiyaç olması halinde güncellenir.
+13. YÜRÜRLÜK
+Bu Kural Seti, 27.08.2025 tarihinde yürürlüğe girer. Kural Setinin güncel versiyonu, Borsa İstanbul kurumsal web
+sitesi (www.borsaistanbul.com), Endeksler – Kural Setleri ve Değişiklikleri sayfasından teyit edilmelidir.
+Ağustos 2025 26 Endeks Direktörlüğü
+===== PAGE 28 =====
+BIST Piyasa Değeri Ağırlıklı Pay Endeksleri
+Kural Seti
+Ağustos 2025 27 Endeks Direktörlüğü

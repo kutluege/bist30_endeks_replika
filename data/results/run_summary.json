@@ -1,0 +1,339 @@
+{
+  "calibration": {
+    "divisor": 193508447.50316417,
+    "reference_market_ts": "2026-10-01 15:10:00+00:00",
+    "reference_official_value": 15218.5,
+    "reference_raw_mcap": 2944908308326.904,
+    "official_source": "yahoo 1d XU030.IS close (== BIST official close, checked vs PayEndeksleri)",
+    "method": "calibrated",
+    "constituents_version": "sha256:11fe0b1318b5e0d4",
+    "adjustments": [
+      {
+        "type": "calibration",
+        "method": "calibrated",
+        "reference_market_ts": "2026-10-01T15:10:00+00:00",
+        "official_value": 15218.5,
+        "raw_mcap": 2944908308326.904,
+        "divisor": 193508447.50316417,
+        "n_constituents": 30,
+        "max_price_staleness_s": 0.0,
+        "prices": {
+          "AEFES": 17.809999465942383,
+          "AKBNK": 67.55000305175781,
+          "ASELS": 370.0,
+          "ASTOR": 209.60000610351562,
+          "BIMAS": 408.0,
+          "EKGYO": 19.030000686645508,
+          "ENKAI": 82.6500015258789,
+          "EREGL": 36.619998931884766,
+          "FROTO": 75.44999694824219,
+          "GARAN": 126.19999694824219,
+          "GUBRF": 414.75,
+          "ISCTR": 12.510000228881836,
+          "KCHOL": 209.89999389648438,
+          "KRDMD": 43.0,
+          "MGROS": 500.0,
+          "PETKM": 19.25,
+          "PGSUS": 140.5,
+          "SAHOL": 86.0999984741211,
+          "SASA": 1.9199999570846558,
+          "SISE": 37.34000015258789,
+          "TAVHL": 262.0,
+          "TCELL": 97.69999694824219,
+          "THYAO": 286.5,
+          "TOASO": 265.25,
+          "TRALT": 43.41999816894531,
+          "TRMET": 127.30000305175781,
+          "TTKOM": 52.45000076293945,
+          "TUPRS": 387.0,
+          "VAKBN": 33.91999816894531,
+          "YKBNK": 34.81999969482422
+        }
+      }
+    ]
+  },
+  "final_divisor_state": {
+    "divisor": 193156920.60406354,
+    "reference_market_ts": "2026-10-01 15:10:00+00:00",
+    "reference_official_value": 15218.5,
+    "reference_raw_mcap": 2944908308326.904,
+    "official_source": "yahoo 1d XU030.IS close (== BIST official close, checked vs PayEndeksleri)",
+    "method": "calibrated",
+    "constituents_version": "sha256:11fe0b1318b5e0d4",
+    "adjustments": [
+      {
+        "type": "calibration",
+        "method": "calibrated",
+        "reference_market_ts": "2026-10-01T15:10:00+00:00",
+        "official_value": 15218.5,
+        "raw_mcap": 2944908308326.904,
+        "divisor": 193508447.50316417,
+        "n_constituents": 30,
+        "max_price_staleness_s": 0.0,
+        "prices": {
+          "AEFES": 17.809999465942383,
+          "AKBNK": 67.55000305175781,
+          "ASELS": 370.0,
+          "ASTOR": 209.60000610351562,
+          "BIMAS": 408.0,
+          "EKGYO": 19.030000686645508,
+          "ENKAI": 82.6500015258789,
+          "EREGL": 36.619998931884766,
+          "FROTO": 75.44999694824219,
+          "GARAN": 126.19999694824219,
+          "GUBRF": 414.75,
+          "ISCTR": 12.510000228881836,
+          "KCHOL": 209.89999389648438,
+          "KRDMD": 43.0,
+          "MGROS": 500.0,
+          "PETKM": 19.25,
+          "PGSUS": 140.5,
+          "SAHOL": 86.0999984741211,
+          "SASA": 1.9199999570846558,
+          "SISE": 37.34000015258789,
+          "TAVHL": 262.0,
+          "TCELL": 97.69999694824219,
+          "THYAO": 286.5,
+          "TOASO": 265.25,
+          "TRALT": 43.41999816894531,
+          "TRMET": 127.30000305175781,
+          "TTKOM": 52.45000076293945,
+          "TUPRS": 387.0,
+          "VAKBN": 33.91999816894531,
+          "YKBNK": 34.81999969482422
+        }
+      },
+      {
+        "type": "adjustment",
+        "effective_date": "2026-10-28",
+        "reason": "PETKM FDPO 0.48->0.37",
+        "old_divisor": 193508447.50316417,
+        "new_divisor": 193156920.60406354,
+        "delta_mcap": -4901022698.730469,
+        "mcap_t": 2697913861031.8223,
+        "index_before": 13942.098631056957,
+        "index_after": 13942.098631056959,
+        "applied_utc": "2026-10-30T11:54:39.371829+00:00",
+        "notes": [
+          "PETKM FDPO 0.48->0.37"
+        ],
+        "pd_new": 2693012838333.092
+      }
+    ]
+  },
+  "intraday_summary": {
+    "n_rows": 9087,
+    "n_compared": 8907,
+    "pct_valid": 98.01914823374051,
+    "pct_valid_continuous": 98.01390268123139,
+    "mae_pts": 5.607793286705684,
+    "rmse_pts": 6.5337751699682265,
+    "bias_pts": 4.870307785484734,
+    "max_abs_pts": 22.05011718750029,
+    "mean_abs_pct": 0.03881143486549346,
+    "max_abs_pct": 0.15658225972203868,
+    "bias_pct": 0.033965289225346335,
+    "median_max_staleness_s": 0.0,
+    "median_weighted_staleness_s": 0.0,
+    "p95_weighted_staleness_s": 0.5953638214097196
+  },
+  "metrics": {
+    "status": "ok",
+    "latency_class": "delayed_15m",
+    "price_source": "yahoo",
+    "official_source": "yahoo",
+    "start": "2026-10-02 06:56:00+00:00",
+    "end": "2026-10-30 11:39:00+00:00",
+    "n_total": 9087,
+    "n_valid": 8907,
+    "n_with_official": 9087,
+    "n_compared": 8907,
+    "pct_valid": 98.01914823374051,
+    "pct_compared": 98.01914823374051,
+    "n": 8907,
+    "mae_pts": 5.607793286705684,
+    "rmse_pts": 6.5337751699682265,
+    "median_abs_pts": 5.459765625000728,
+    "p95_abs_pts": 10.949746093749853,
+    "max_abs_pts": 22.05011718750029,
+    "bias_pts": 4.870307785484734,
+    "mae_pct": 0.03881143486549346,
+    "rmse_pct": 0.04566279180219242,
+    "median_abs_pct": 0.03695292201954301,
+    "p95_abs_pct": 0.07811186555111553,
+    "max_abs_pct": 0.15658225972203868,
+    "bias_pct": 0.033965289225346335,
+    "tracking": {
+      "n_returns": 8887,
+      "te_per_obs_bps": 1.4518510586784756,
+      "mean_return_diff_bps": 0.0005130670330477661,
+      "return_corr": 0.9736388311047075,
+      "te_daily_bps": 2.3822229591615383,
+      "te_annualised_pct": 0.3781661710469886
+    },
+    "invalid_reasons": {
+      "stale>300s": 179,
+      "price_jump>10%": 1
+    },
+    "n_valid_no_official": 0,
+    "staleness": {
+      "pct_rows_with_stale": 2.189941674920216,
+      "mean_n_stale": 0.08869814020028613,
+      "max_n_stale": 30.0,
+      "max_staleness_median_s": 0.0,
+      "max_staleness_p95_s": 60.0,
+      "max_staleness_max_s": null,
+      "most_stale_symbols": {
+        "ASTOR": 60,
+        "ASELS": 36,
+        "SASA": 34,
+        "TRALT": 34,
+        "TRMET": 34
+      }
+    }
+  },
+  "viop": {
+    "n_quotes": 62,
+    "contracts": {
+      "F_XU0300227": {
+        "summary": {
+          "status": "ok",
+          "n": 11,
+          "n_valid": 11,
+          "raw_basis_official": {
+            "mean": 1360.0571732954545,
+            "std": 13.057510250610004,
+            "min": 1341.509765625,
+            "max": 1393.3701171875,
+            "n": 11
+          },
+          "residual_official": {
+            "mean": -236.48365195942114,
+            "std": 13.588320033472929,
+            "min": -255.72213666391508,
+            "max": -201.69428157464608,
+            "n": 11
+          },
+          "residual_official_bps": {
+            "mean": -172.98626737047934,
+            "std": 9.855488475180692,
+            "min": -186.95201903296865,
+            "max": -147.70046003407447,
+            "n": 11
+          },
+          "implied_repo_official": {
+            "mean": 0.30474583158106955,
+            "std": 0.003023146826379658,
+            "min": 0.3004587576159753,
+            "max": 0.3124980236024718,
+            "n": 11
+          },
+          "residual_calc_minus_official": {
+            "mean": -7.027525304196884,
+            "std": 3.3794501783484368,
+            "min": -14.182762885651755,
+            "max": -4.031119233453865,
+            "n": 11
+          },
+          "invalid_reasons": {}
+        }
+      },
+      "F_XU0301026": {
+        "summary": {
+          "status": "ok",
+          "n": 27,
+          "n_valid": 27,
+          "raw_basis_official": {
+            "mean": 38.258101851851855,
+            "std": 5.788083705660626,
+            "min": 22.099609375,
+            "max": 49.2998046875,
+            "n": 27
+          },
+          "residual_official": {
+            "mean": 36.12047956025816,
+            "std": 5.826127784637013,
+            "min": 19.859317356382235,
+            "max": 47.37207646924071,
+            "n": 27
+          },
+          "residual_official_bps": {
+            "mean": 26.41984324528394,
+            "std": 4.262718533222718,
+            "min": 14.540534627133454,
+            "max": 34.62187710980448,
+            "n": 27
+          },
+          "implied_repo_official": null,
+          "residual_calc_minus_official": {
+            "mean": -5.133716742894682,
+            "std": 1.1424602997604794,
+            "min": -7.471041996248459,
+            "max": -3.4803671966456022,
+            "n": 27
+          },
+          "invalid_reasons": {}
+        }
+      },
+      "F_XU0301226": {
+        "summary": {
+          "status": "ok",
+          "n": 24,
+          "n_valid": 24,
+          "raw_basis_official": {
+            "mean": 681.714599609375,
+            "std": 5.951432221291424,
+            "min": 670.48046875,
+            "max": 693.7099609375,
+            "n": 24
+          },
+          "residual_official": {
+            "mean": -150.98508899654948,
+            "std": 5.600310805908534,
+            "min": -162.2698206853438,
+            "max": -138.7087625449294,
+            "n": 24
+          },
+          "residual_official_bps": {
+            "mean": -110.46994405869935,
+            "std": 4.133930118869262,
+            "min": -118.67450828185527,
+            "max": -101.59663347224365,
+            "n": 24
+          },
+          "implied_repo_official": {
+            "mean": 0.2928680757422683,
+            "std": 0.002426466110531726,
+            "min": 0.2880251049687167,
+            "max": 0.2980797642063873,
+            "n": 24
+          },
+          "residual_calc_minus_official": {
+            "mean": -5.512842454812319,
+            "std": 1.2075937428169319,
+            "min": -7.924953948211623,
+            "max": -3.6918172617752134,
+            "n": 24
+          },
+          "invalid_reasons": {}
+        }
+      }
+    },
+    "rate": {
+      "value": 0.35773299999999997,
+      "date": "2026-10-28",
+      "source": "tlref"
+    }
+  },
+  "figures": {
+    "intraday_all": "reports/figures/intraday_all.png",
+    "intraday_2026-10-27": "reports/figures/intraday_2026-10-27.png",
+    "intraday_2026-10-28": "reports/figures/intraday_2026-10-28.png",
+    "intraday_2026-10-30": "reports/figures/intraday_2026-10-30.png",
+    "error_hist": "reports/figures/error_hist.png",
+    "basis_F_XU0300227": "reports/figures/basis_F_XU0300227.png",
+    "basis_F_XU0301026": "reports/figures/basis_F_XU0301026.png",
+    "basis_F_XU0301226": "reports/figures/basis_F_XU0301226.png"
+  },
+  "lag_best": 0
+}

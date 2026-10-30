@@ -1,0 +1,17 @@
+# environment / build
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+
+# raw third-party downloads and the market-data store: large and re-downloadable
+# (scripts/backfill.py, python -m bist30.metadata.build). Test fixtures are kept.
+data/db/
+data/raw/*
+!data/raw/fixtures/
+data/metadata/raw/*
+!data/metadata/raw/hisse_endeks_ds_20261030.csv
+
+# runtime state / logs
+data/state/poller.pid
+logs/

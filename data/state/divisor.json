@@ -1,0 +1,53 @@
+{
+  "divisor": 193508447.50316417,
+  "reference_market_ts": "2026-10-01T15:10:00+00:00",
+  "reference_official_value": 15218.5,
+  "reference_raw_mcap": 2944908308326.904,
+  "official_source": "yahoo 1d XU030.IS close (== BIST official close, checked vs PayEndeksleri)",
+  "method": "calibrated",
+  "constituents_version": "sha256:11fe0b1318b5e0d4",
+  "adjustments": [
+    {
+      "type": "calibration",
+      "method": "calibrated",
+      "reference_market_ts": "2026-10-01T15:10:00+00:00",
+      "official_value": 15218.5,
+      "raw_mcap": 2944908308326.904,
+      "divisor": 193508447.50316417,
+      "n_constituents": 30,
+      "max_price_staleness_s": 0.0,
+      "prices": {
+        "AEFES": 17.809999465942383,
+        "AKBNK": 67.55000305175781,
+        "ASELS": 370.0,
+        "ASTOR": 209.60000610351562,
+        "BIMAS": 408.0,
+        "EKGYO": 19.030000686645508,
+        "ENKAI": 82.6500015258789,
+        "EREGL": 36.619998931884766,
+        "FROTO": 75.44999694824219,
+        "GARAN": 126.19999694824219,
+        "GUBRF": 414.75,
+        "ISCTR": 12.510000228881836,
+        "KCHOL": 209.89999389648438,
+        "KRDMD": 43.0,
+        "MGROS": 500.0,
+        "PETKM": 19.25,
+        "PGSUS": 140.5,
+        "SAHOL": 86.0999984741211,
+        "SASA": 1.9199999570846558,
+        "SISE": 37.34000015258789,
+        "TAVHL": 262.0,
+        "TCELL": 97.69999694824219,
+        "THYAO": 286.5,
+        "TOASO": 265.25,
+        "TRALT": 43.41999816894531,
+        "TRMET": 127.30000305175781,
+        "TTKOM": 52.45000076293945,
+        "TUPRS": 387.0,
+        "VAKBN": 33.91999816894531,
+        "YKBNK": 34.81999969482422
+      }
+    }
+  ]
+}

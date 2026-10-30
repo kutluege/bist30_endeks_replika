@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bist30"
+version = "0.1.0"
+description = "Independent BIST 30 (XU030) index replication and VIOP futures analysis"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "requests>=2.31",
+    "yfinance>=0.2.40",
+    "matplotlib>=3.8",
+    "pyyaml>=6",
+    "beautifulsoup4>=4.12",
+    "lxml>=5",
+    "pdfplumber>=0.11",
+    "tzdata",
+    "openpyxl>=3.1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+bist30 = "bist30.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"bist30.report_html" = ["assets/*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+filterwarnings = ["ignore::DeprecationWarning", "ignore::FutureWarning"]
